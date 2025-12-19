@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T18:27:28.072631+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2025-12-19T19:22:06.087592+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -18,8 +18,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时54分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时26分 ~ 19时22分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -47,20 +63,28 @@
           "time_info": "[00时35分 ~ 11时27分]"
         },
         {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6,
-            5,
+            3,
             4,
-            2,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时27分 ~ 19时22分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -72,17 +96,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 18时27分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -106,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时54分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 19时22分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -126,21 +139,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时26分 ~ 18时27分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 18时27分]"
+          "appearance_count": 24,
+          "time_info": "[01时26分 ~ 19时22分]"
         },
         {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
@@ -188,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "俄罗斯总统普京：美国总统特朗普正在为结束冲突作出真诚努力。",
+          "url": "https://flash.jin10.com/detail/20251219185310945800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -275,6 +286,18 @@
           "time_info": "[11时27分 ~ 12时37分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 19时22分]"
+        },
+        {
           "title": "特朗普为何既要日本管住嘴又让迈开腿",
           "url": "https://www.toutiao.com/trending/7584332222707793963/",
           "source": "今日头条",
@@ -297,6 +320,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时20分]"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "美国总统特朗普将把军队住房资金用做国防部奖金。（华盛顿邮报）",
@@ -541,6 +575,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "普京：特朗普采取措施结束乌克兰战争。 说俄罗斯拒绝任何方案是错误的。 准备好就结束乌克兰战争进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3023908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
           "url": "https://flash.jin10.com/detail/20251219031834867800",
           "source": "金十数据",
@@ -550,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "布朗大学枪案后 特朗普下令暂停“绿卡抽签”",
+          "url": "https://wallstreetcn.com/livenews/3023907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "美媒：特朗普拟设平安夜及圣诞节次日为联邦假日",
@@ -594,17 +650,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "美国总统特朗普：（关于乌克兰会晤）他们正在接近达成某种协议，但我希望乌克兰能迅速采取行动。",
@@ -899,8 +944,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时54分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 19时22分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1485,8 +1530,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时22分]"
         }
       ]
     }
