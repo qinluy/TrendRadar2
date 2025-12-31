@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T19:22:56.235480+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-12-31T20:50:47.764229+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -167,6 +167,17 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时50分]"
+        },
+        {
           "title": "国台办回应特朗普称不担心台海局势",
           "url": "https://www.toutiao.com/trending/7589884892247543346/",
           "source": "今日头条",
@@ -190,17 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时24分]"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时22分]"
         },
         {
           "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
@@ -244,7 +244,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -353,8 +353,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时22分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 20时50分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
