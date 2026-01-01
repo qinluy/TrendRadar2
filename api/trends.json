@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:24:08.732958+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-02T07:23:52.564693+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -26,11 +26,12 @@
             3,
             10,
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 06时24分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时23分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -55,11 +56,12 @@
           "ranks": [
             3,
             7,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 07时23分]"
         },
         {
           "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
@@ -68,11 +70,12 @@
           "ranks": [
             7,
             11,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 07时23分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -114,8 +117,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -127,8 +130,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -142,8 +145,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时23分]"
         }
       ]
     },
@@ -198,7 +201,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -208,8 +211,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "美股三大股指期货周五开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260102070027378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     }
