@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T05:19:42.608056+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-01-03T06:25:01.101838+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -15,19 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
-        },
-        {
-          "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
-          "url": "https://flash.jin10.com/detail/20260103035911381800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -37,22 +26,37 @@
             13,
             16,
             19,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
-          "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
-          "url": "https://wallstreetcn.com/livenews/3029929",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
+          "url": "https://flash.jin10.com/detail/20260103035911381800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普称美国已做好准备",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            25,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
@@ -84,17 +88,16 @@
           "time_info": "[00时31分 ~ 03时17分]"
         },
         {
-          "title": "特朗普称美国已做好准备",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
+          "url": "https://wallstreetcn.com/livenews/3029929",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
-            25,
-            20
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时25分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -108,6 +111,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时35分]"
+        },
+        {
+          "title": "特朗普威胁要干涉伊朗骚乱事件",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%A6%81%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E9%AA%9A%E4%B9%B1%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 06时25分]"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
@@ -149,7 +163,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         }
@@ -157,7 +171,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -167,8 +181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -178,8 +192,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -191,8 +205,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时25分]"
+        },
+        {
+          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
+          "url": "https://wallstreetcn.com/articles/3762458",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "time_info": "[02时35分 ~ 06时25分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -204,8 +230,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时35分 ~ 06时25分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
@@ -217,19 +243,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时35分 ~ 06时25分]"
         },
         {
-          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
-          "url": "https://wallstreetcn.com/articles/3762458",
-          "source": "华尔街见闻",
+          "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3029945",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时35分 ~ 05时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -254,6 +280,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时21分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
+          "url": "https://wallstreetcn.com/livenews/3029937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美股盘初：纳指涨1%，中概指数涨近3%，百度涨约11%，特斯拉涨约2%",
@@ -291,8 +328,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -302,19 +339,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
           "url": "https://wallstreetcn.com/articles/3762454",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时25分]"
         }
       ]
     },
@@ -332,11 +370,12 @@
             23,
             14,
             24,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -360,11 +399,12 @@
           "url": "https://wallstreetcn.com/livenews/3029924",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时25分]"
         }
       ]
     }
