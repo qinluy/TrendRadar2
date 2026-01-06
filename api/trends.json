@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T14:40:22.980656+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-01-06T15:30:35.397601+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 14时40分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 15时30分]"
+        },
+        {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 15时30分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -54,6 +66,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 15时30分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -83,6 +107,21 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            10,
+            15,
+            29,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 15时30分]"
+        },
+        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -90,11 +129,12 @@
             11,
             12,
             13,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 14时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 15时30分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -132,44 +172,6 @@
           "time_info": "[00时32分 ~ 07时24分]"
         },
         {
-          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
-          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 14时40分]"
-        },
-        {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
-          "ranks": [
-            10,
-            15,
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 14时40分]"
-        },
-        {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
           "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
           "source": "凤凰网",
@@ -177,8 +179,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 15时30分]"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时43分 ~ 14时40分]"
+          "time_info": "[12时42分 ~ 15时30分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -270,16 +285,15 @@
           "time_info": "[09时57分 ~ 12时43分]"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时40分]"
+          "time_info": "[13时28分 ~ 15时30分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -352,17 +366,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时43分 ~ 12时43分]"
-        },
-        {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 14时40分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
@@ -497,7 +500,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -640,7 +643,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -662,6 +665,18 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 15时30分]"
+        },
+        {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
@@ -674,18 +689,6 @@
           "time_info": "[00时32分 ~ 06时25分]"
         },
         {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 14时40分]"
-        },
-        {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
           "url": "https://www.cls.cn/detail/2248624",
           "source": "财联社热门",
@@ -695,8 +698,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 14时40分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 15时30分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -841,8 +844,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 14时40分]"
+          "appearance_count": 10,
+          "time_info": "[09时57分 ~ 15时30分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
