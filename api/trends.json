@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T16:37:09.410653+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-01-06T17:31:49.020542+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 16时37分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 17时31分]"
         },
         {
           "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
@@ -77,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时57分 ~ 16时37分]"
+          "appearance_count": 13,
+          "time_info": "[09时57分 ~ 17时31分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -90,6 +90,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 17时31分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -117,11 +131,12 @@
             29,
             18,
             19,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时57分 ~ 16时37分]"
+          "appearance_count": 13,
+          "time_info": "[09时57分 ~ 17时31分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -136,8 +151,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时32分 ~ 16时37分]"
+          "appearance_count": 24,
+          "time_info": "[00时32分 ~ 17时31分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -186,19 +201,6 @@
           "time_info": "[11时43分 ~ 15时30分]"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 16时37分]"
-        },
-        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
@@ -207,19 +209,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 16时37分]"
-        },
-        {
-          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
-          "url": "https://www.toutiao.com/trending/7592114928259285042/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 17时31分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -276,6 +267,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 11时44分]"
+        },
+        {
+          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
+          "url": "https://www.toutiao.com/trending/7592114928259285042/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时31分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
@@ -371,6 +374,19 @@
           "time_info": "[00时32分 ~ 02时38分]"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            22,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时31分]"
+        },
+        {
           "title": "墨总统回应特朗普：合作可以干预不行",
           "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
           "source": "百度热搜",
@@ -392,18 +408,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 11时44分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时37分]"
         },
         {
           "title": "ICC原检察官：特朗普犯了“侵略罪”",
@@ -700,8 +704,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时24分 ~ 16时37分]"
+          "appearance_count": 14,
+          "time_info": "[07时24分 ~ 17时31分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -872,8 +876,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时57分 ~ 16时37分]"
+          "appearance_count": 13,
+          "time_info": "[09时57分 ~ 17时31分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
