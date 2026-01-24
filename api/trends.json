@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T22:23:55.810104+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-01-24T23:24:44.497607+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "斯塔默要求特朗普道歉，白宫回应",
@@ -83,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时38分 ~ 22时23分]"
+          "appearance_count": 16,
+          "time_info": "[12时38分 ~ 23时24分]"
         },
         {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
@@ -106,8 +106,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时37分 ~ 22时23分]"
+          "appearance_count": 13,
+          "time_info": "[14时37分 ~ 23时24分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -244,6 +244,21 @@
           "time_info": "[09时55分 ~ 15时23分]"
         },
         {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            28,
+            13,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 23时24分]"
+        },
+        {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
           "url": "https://flash.jin10.com/detail/20260124113127622800",
           "source": "金十数据",
@@ -282,20 +297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            28,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 22时23分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -342,37 +343,26 @@
           "time_info": "[17时25分 ~ 21时33分]"
         },
         {
-          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
-          "url": "https://flash.jin10.com/detail/20260124214240253800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
-          "url": "https://wallstreetcn.com/livenews/3043293",
+          "title": "美国财政部：特朗普将出席特朗普账户峰会",
+          "url": "https://wallstreetcn.com/livenews/3043301",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "23时24分"
         },
         {
-          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260124214134476800",
-          "source": "金十数据",
+          "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
+          "url": "https://wallstreetcn.com/livenews/3043300",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "23时24分"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -450,6 +440,18 @@
           "time_info": "[05时26分 ~ 06时21分]"
         },
         {
+          "title": "据AXIOS：特朗普将于当地时间下周三出席有关“特朗普账户”的峰会。",
+          "url": "https://flash.jin10.com/detail/20260124214240253800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时24分]"
+        },
+        {
           "title": "特朗普政府正在考虑全面封锁古巴石油进口",
           "url": "https://wallstreetcn.com/livenews/3043145",
           "source": "华尔街见闻-快讯",
@@ -460,6 +462,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
+          "url": "https://wallstreetcn.com/livenews/3043293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时24分]"
+        },
+        {
+          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260124214134476800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "为何特朗普想要格陵兰岛",
@@ -549,6 +575,18 @@
           "time_info": "[11时40分 ~ 13时26分]"
         },
         {
+          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 23时24分]"
+        },
+        {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
           "url": "https://wallstreetcn.com/livenews/3043143",
           "source": "华尔街见闻-快讯",
@@ -559,6 +597,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时25分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3043290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
@@ -632,6 +682,18 @@
           "time_info": "[16时32分 ~ 17时25分]"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时24分]"
+        },
+        {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
           "url": "https://wallstreetcn.com/livenews/3043069",
           "source": "华尔街见闻-快讯",
@@ -655,17 +717,6 @@
           "time_info": "[13时25分 ~ 13时26分]"
         },
         {
-          "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456708",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时23分]"
-        },
-        {
           "title": "意总理私下劝欧盟别和特朗普对抗",
           "url": "https://www.toutiao.com/trending/7598077409648820287/",
           "source": "今日头条",
@@ -675,28 +726,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3043290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20260124211543155800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
@@ -746,7 +775,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -757,8 +786,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时25分 ~ 22时23分]"
+          "appearance_count": 20,
+          "time_info": "[07时25分 ~ 23时24分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -772,8 +801,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时25分 ~ 22时23分]"
+          "appearance_count": 20,
+          "time_info": "[07时25分 ~ 23时24分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -797,6 +826,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时27分 ~ 07时25分]"
+        },
+        {
+          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
+          "url": "https://flash.jin10.com/detail/20260124222616668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
@@ -1082,8 +1122,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 23时24分]"
         }
       ]
     }
