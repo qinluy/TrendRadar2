@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:05:41.992570+08:00",
-  "total_titles_processed": 1952,
+  "generated_at": "2026-01-29T22:43:02.038256+08:00",
+  "total_titles_processed": 2069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -106,8 +106,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 21时05分]"
+          "appearance_count": 11,
+          "time_info": "[12时41分 ~ 22时43分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -141,13 +141,38 @@
           "time_info": "[12时41分 ~ 18时41分]"
         },
         {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时43分]"
+        },
+        {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时49分 ~ 22时43分]"
+        },
+        {
           "title": "特朗普呼吁降息",
           "url": "https://wallstreetcn.com/livenews/3046487",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -173,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "伊朗议会议长：难以信任特朗普",
+          "url": "https://wallstreetcn.com/livenews/3046543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
@@ -263,20 +299,6 @@
           "time_info": "[05时34分 ~ 06时31分]"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时49分 ~ 21时05分]"
-        },
-        {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
@@ -287,6 +309,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时23分 ~ 12时41分]"
+        },
+        {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时43分]"
         },
         {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
@@ -517,6 +550,17 @@
           "time_info": "12时41分"
         },
         {
+          "title": "卡特彼勒：（美国总统特朗普挑起的）关税在2025年给公司造成17亿美元成本。 预计一季度关税成本8亿美元，形势可能会在二季度改善。",
+          "url": "https://wallstreetcn.com/livenews/3046531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "韩国产业部：韩国产业部长将访问美国，商讨美国总统特朗普提高对韩国商品关税的问题。",
           "url": "https://flash.jin10.com/detail/20260129100419679800",
           "source": "金十数据",
@@ -616,6 +660,28 @@
           "time_info": "02时42分"
         },
         {
+          "title": "鲍威尔、特朗普罕见存在共识：美国经济比想象中要好",
+          "url": "https://flash.jin10.com/detail/20260129215024264800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "白宫边境事务负责人Homan：将在明尼苏达州开展针对性行动。 特朗普不会放弃其反移民使命。",
+          "url": "https://wallstreetcn.com/livenews/3046514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
           "url": "https://wallstreetcn.com/livenews/3045679",
           "source": "华尔街见闻-快讯",
@@ -641,7 +707,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -691,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "美股开盘 Meta Platforms大涨10%",
+          "url": "https://flash.jin10.com/detail/20260129223027540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
@@ -770,6 +847,17 @@
           "time_info": "19时35分"
         },
         {
+          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3046542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
           "url": "https://flash.jin10.com/detail/20260129051658551800",
           "source": "金十数据",
@@ -780,6 +868,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时31分]"
+        },
+        {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 22时43分]"
         },
         {
           "title": "微软第二财季营收812.7亿美元，分析师预期803.1亿美元。第二财季智能云营收329.1亿美元，分析师预期323.9亿美元。 第二财季Azure与其他云营收（剔除汇率因素之后）增长38%，分析师预期增长38%。 第二财季资本开支包括375亿美元租赁，分析师预期362.6亿美元。 微软美股盘后重挫8.1%。",
@@ -823,7 +922,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -834,7 +933,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -889,9 +988,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "铜价创下历史新高后，美股上市铜矿商股价盘前上涨，必和必拓(BHP.N)涨4.1%，力拓(RIO.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260129215941423800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3046527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后现涨3%。",
@@ -936,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129214609846800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
@@ -985,8 +1117,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时05分]"
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 22时43分]"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 22时43分]"
         },
         {
           "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
@@ -1006,81 +1149,15 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
-        },
-        {
-          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
-          "url": "https://www.zhihu.com/question/1999888901490304692",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "人类基因密码被谷歌AI破解",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7,
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 16时45分]"
-        },
-        {
-          "title": "谷歌DeepMind登Nature封面",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时49分 ~ 21时05分]"
-        },
-        {
-          "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
-          "url": "https://flash.jin10.com/detail/20260129021221208800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3045867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时30分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数DXY日内大涨1.00%，现报96.72。",
@@ -1125,6 +1202,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "美元指数DXY短线走高十余点，现报96.36。",
+          "url": "https://flash.jin10.com/detail/20260129215004835800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 16时45分]"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            15,
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时49分 ~ 22时43分]"
+        },
+        {
+          "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
+          "url": "https://flash.jin10.com/detail/20260129021221208800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3045867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         }
       ]
     },
