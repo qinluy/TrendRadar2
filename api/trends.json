@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-01-30T15:42:55.329422+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-01-30T16:45:24.026757+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
+        {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 16时45分]"
+        },
+        {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时43分 ~ 16时45分]"
+        },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
@@ -20,31 +46,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时49分 ~ 12时43分]"
-        },
-        {
-          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
-          "url": "https://www.cls.cn/detail/2275048",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时42分]"
-        },
-        {
-          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
-          "url": "https://wallstreetcn.com/articles/3764534",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时43分 ~ 15时42分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -65,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 16时45分]"
         },
         {
           "title": "特朗普：计划30日公布美联储下任主席提名",
@@ -76,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 16时45分]"
         },
         {
           "title": "特朗普宣布国家紧急状态",
@@ -87,8 +88,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 16时45分]"
+        },
+        {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 16时45分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将于周五美国东部时间上午11点（北京时间周六零点）签署行政命令。",
@@ -100,17 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 15时42分]"
         },
         {
           "title": "特朗普称计划同伊朗对话",
@@ -356,6 +357,18 @@
           "time_info": "[02时54分 ~ 04时38分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时55分 ~ 16时45分]"
+        },
+        {
           "title": "特朗普回应开会睡觉",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E5%BC%80%E4%BC%9A%E7%9D%A1%E8%A7%89",
           "source": "bilibili 热搜",
@@ -548,15 +561,15 @@
           "time_info": "[02时54分 ~ 03时34分]"
         },
         {
-          "title": "特朗普宣布国家紧急状态，威胁对向古巴提供石油的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32496464",
-          "source": "澎湃新闻",
+          "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
+          "url": "https://www.cls.cn/detail/2275439",
+          "source": "财联社热门",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 15时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
@@ -620,7 +633,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -922,6 +935,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "乌克兰总统泽连斯基：（就停止对能源目标的打击表示）这是我们的倡议，也是特朗普总统的个人倡议，我们认为这是一个机会，而不是一项协议。",
+          "url": "https://flash.jin10.com/detail/20260130160443178800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "美国总统特朗普：（谈委内瑞拉）已让大型石油公司前往勘察地点。",
           "url": "https://flash.jin10.com/detail/20260130004406228800",
           "source": "金十数据",
@@ -1045,8 +1069,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 16时45分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
