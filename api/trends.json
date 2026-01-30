@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T10:23:35.629080+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-01-30T12:43:55.178281+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 81,
       "titles": [
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             14,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 10时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 12时43分]"
         },
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -32,13 +33,24 @@
           "time_info": "[00时49分 ~ 05时31分]"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于周五美国东部时间上午11点（北京时间周六零点）签署行政命令。",
+          "url": "https://flash.jin10.com/detail/20260130123131643800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "特朗普称计划同伊朗对话",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A1%E5%88%92%E5%90%8C%E4%BC%8A%E6%9C%97%E5%AF%B9%E8%AF%9D",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -54,6 +66,28 @@
           "time_info": "07时31分"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五下午2点（北京时间次日凌晨3点）参加一场政策会议。",
+          "url": "https://flash.jin10.com/detail/20260130123023173800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
+          "url": "https://wallstreetcn.com/articles/3764534",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "美国总统特朗普：我正与国会紧密合作，以确保我们能够及时为政府提供充足资金，毫不拖延。",
           "url": "https://flash.jin10.com/detail/20260130071202348800",
           "source": "金十数据",
@@ -63,6 +97,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "特朗普称美联储“新掌门”周五揭晓 沃什获提名概率飙升至87%！",
+          "url": "https://www.cls.cn/detail/2275048",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 12时43分]"
         },
         {
           "title": "美国总统特朗普：与礼来制药老板对话。",
@@ -176,19 +234,6 @@
           "time_info": "[01时40分 ~ 02时54分]"
         },
         {
-          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
-          "url": "https://wallstreetcn.com/articles/3764456",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 10时23分]"
-        },
-        {
           "title": "美国总统特朗普：关税本可能会更高，我们已经非常客气了。",
           "url": "https://flash.jin10.com/detail/20260130011559284800",
           "source": "金十数据",
@@ -263,6 +308,17 @@
           "time_info": "[02时54分 ~ 04时38分]"
         },
         {
+          "title": "特朗普：将开放委内瑞拉领空",
+          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 12时43分]"
+        },
+        {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
           "url": "https://flash.jin10.com/detail/20260130020053884800",
           "source": "金十数据",
@@ -297,6 +353,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时54分]"
+        },
+        {
+          "title": "特朗普：计划30日公布美联储下任主席提名",
+          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 12时43分]"
         },
         {
           "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
@@ -359,6 +426,17 @@
           "time_info": "[02时54分 ~ 03时34分]"
         },
         {
+          "title": "特朗普宣布国家紧急状态",
+          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 12时43分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周",
           "url": "https://flash.jin10.com/detail/20260130011030336800",
           "source": "金十数据",
@@ -419,6 +497,17 @@
           "time_info": "[02时54分 ~ 03时34分]"
         },
         {
+          "title": "特朗普威胁对加拿大飞机加征50%关税",
+          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 12时43分]"
+        },
+        {
           "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
           "url": "https://flash.jin10.com/detail/20260130013218508800",
           "source": "金十数据",
@@ -443,28 +532,6 @@
           "time_info": "[02时54分 ~ 03时34分]"
         },
         {
-          "title": "特朗普：将开放委内瑞拉领空",
-          "url": "https://news.ifeng.com/c/8qKaGjQKJrg",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "特朗普：计划30日公布美联储下任主席提名",
-          "url": "https://news.ifeng.com/c/8qKUiK0pwuH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
           "title": "分析：弱美元可能成为特朗普和下一任美联储主席的麻烦",
           "url": "https://flash.jin10.com/detail/20260130035139767800",
           "source": "金十数据",
@@ -474,17 +541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "特朗普宣布国家紧急状态",
-          "url": "https://news.ifeng.com/c/8qKOxahNKqK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
         },
         {
           "title": "在特朗普宣布与古巴相关的贸易威胁后，现货黄金突破5430美元/盎司，日内涨1.17%。",
@@ -507,17 +563,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "特朗普威胁对加拿大飞机加征50%关税",
-          "url": "https://news.ifeng.com/c/8qKQWKa5M3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -559,7 +604,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -625,7 +670,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -691,7 +736,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -740,13 +785,24 @@
           "time_info": "07时31分"
         },
         {
+          "title": "特朗普听取多种打击伊朗方案",
+          "url": "https://wallstreetcn.com/livenews/3046958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "特朗普最新回应美军机南海坠毁",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -861,6 +917,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "庞巴迪：关注到美国总统特朗普的帖子。正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3046944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "美国政府停摆风险迫近，特朗普与民主党人接近达成协议",
           "url": "https://wallstreetcn.com/livenews/3046623",
           "source": "华尔街见闻-快讯",
@@ -910,8 +977,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 10时23分]"
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 12时43分]"
         },
         {
           "title": "苹果股价美股盘后出现两波冲高回落行情，目前涨超0.9%。 业绩报告披露后，CEO库克和CFO正参与分析师电话会议。",
@@ -933,8 +1000,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 10时23分]"
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 12时43分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -1191,7 +1258,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -1202,7 +1269,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
