@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T22:28:24.610807+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-01-31T23:28:44.768985+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时44分 ~ 22时28分]"
+          "appearance_count": 26,
+          "time_info": "[00时44分 ~ 23时28分]"
         },
         {
           "title": "特朗普粗暴评论斯塔默访华，英高官罕见回了一巴掌",
@@ -73,8 +73,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时44分 ~ 22时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时44分 ~ 23时28分]"
         },
         {
           "title": "斯塔默回击特朗普涉中英言论",
@@ -112,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时12分 ~ 22时28分]"
+          "appearance_count": 16,
+          "time_info": "[10时12分 ~ 23时28分]"
         },
         {
           "title": "原油收复日内跌幅，特朗普：已向伊朗告知最后期限，希望达成协议，否则拭目以待",
@@ -125,8 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时27分 ~ 22时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时27分 ~ 23时28分]"
         },
         {
           "title": "美持续施压伊朗，特朗普：没有撤回军事部署的时间表",
@@ -149,6 +149,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时44分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
+          "url": "https://wallstreetcn.com/articles/3764621",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时35分 ~ 23时28分]"
         },
         {
           "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
@@ -203,8 +215,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时30分 ~ 22时28分]"
+          "appearance_count": 19,
+          "time_info": "[06时30分 ~ 23时28分]"
         },
         {
           "title": "特朗普：提名凯文·沃什出任美联储主席",
@@ -247,18 +259,6 @@
           "time_info": "[00时44分 ~ 07时29分]"
         },
         {
-          "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
-          "url": "https://wallstreetcn.com/articles/3764621",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 22时28分]"
-        },
-        {
           "title": "斯塔默回击特朗普涉中英合作言论：忽视中国是“不明智的”",
           "url": "https://wallstreetcn.com/livenews/3047643",
           "source": "华尔街见闻-快讯",
@@ -284,18 +284,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时35分 ~ 10时12分]"
-        },
-        {
-          "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
-          "url": "https://flash.jin10.com/detail/20260131213021035800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时28分]"
         },
         {
           "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
@@ -335,6 +323,19 @@
           "time_info": "14时44分"
         },
         {
+          "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
+          "url": "https://flash.jin10.com/detail/20260131213021035800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时28分]"
+        },
+        {
           "title": "美国总统特朗普：很高兴提名Brett Matsumoto担任美国劳工统计局（BLS）局长。 有信心Brett Matsumoto能够解决BLS的问题。",
           "url": "https://wallstreetcn.com/livenews/3047625",
           "source": "华尔街见闻-快讯",
@@ -351,15 +352,15 @@
           "time_info": "[10时12分 ~ 16时35分]"
         },
         {
-          "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
-          "url": "https://wallstreetcn.com/livenews/3047706",
-          "source": "华尔街见闻-快讯",
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
           "ranks": [
-            3
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时28分]"
         },
         {
           "title": "美国总统特朗普：向伊朗派遣军舰，如果达不成协议会发生什么，就拭目以待了。",
@@ -437,17 +438,6 @@
           "time_info": "[15时32分 ~ 18时29分]"
         },
         {
-          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
-          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时28分]"
-        },
-        {
           "title": "美国参议院沃伦周五致信总统特朗普的美联储主席提名人凯文·沃什。 沃伦询问对方是否支持特朗普司法部对美联储主席鲍威尔和美联储理事Lisa Cook的调查。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3047555",
           "source": "华尔街见闻-快讯",
@@ -459,6 +449,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时36分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
+          "url": "https://wallstreetcn.com/livenews/3047706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时28分]"
         },
         {
           "title": "美国财政部下辖国税局（IRS）打算在特朗普政府停摆的第一周让所有工作人员到岗。",
@@ -802,8 +804,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时12分 ~ 22时28分]"
+          "appearance_count": 16,
+          "time_info": "[10时12分 ~ 23时28分]"
         },
         {
           "title": "沃什引爆鹰派预期，PPI抬头“火上浇油”，美股指齐跌，闪迪涨24%，商品遭遇黑色星期五，沪银重挫17%，沪金大跌6%",
@@ -948,6 +950,34 @@
           "time_info": "[12时27分 ~ 14时44分]"
         },
         {
+          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
+          "url": "https://wallstreetcn.com/livenews/3047693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时28分]"
+        },
+        {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时28分]"
+        },
+        {
           "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
           "url": "https://flash.jin10.com/detail/20260131190934573800",
           "source": "金十数据",
@@ -960,6 +990,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时24分 ~ 22时28分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
+          "url": "https://flash.jin10.com/detail/20260131203337844800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时28分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时28分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -975,58 +1033,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时12分 ~ 15时32分]"
-        },
-        {
-          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
-          "url": "https://wallstreetcn.com/livenews/3047693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时28分]"
-        },
-        {
-          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
-          "url": "https://flash.jin10.com/detail/20260131204002785800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时28分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
-          "url": "https://flash.jin10.com/detail/20260131203337844800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时28分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
-          "url": "https://flash.jin10.com/detail/20260131203248230800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时28分]"
         }
       ]
     },
@@ -1055,11 +1061,12 @@
             6,
             9,
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时24分 ~ 22时28分]"
+          "appearance_count": 6,
+          "time_info": "[19时24分 ~ 23时28分]"
         },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
