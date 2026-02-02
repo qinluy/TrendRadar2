@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:51:15.863436+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-02-02T19:38:45.888788+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时52分 ~ 18时51分]"
+          "appearance_count": 8,
+          "time_info": "[15时52分 ~ 19时38分]"
         },
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -265,6 +265,18 @@
           "time_info": "[06时30分 ~ 07时29分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时38分]"
+        },
+        {
           "title": "特朗普口风转软缓解供需忧虑 欧能股随国际油价重挫全线走低",
           "url": "https://flash.jin10.com/detail/20260202161737942800",
           "source": "金十数据",
@@ -331,17 +343,6 @@
           "time_info": "10时32分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
-          "url": "https://flash.jin10.com/detail/20260202181717877800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "特朗普回应被爱泼斯坦案文件提及",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -381,7 +382,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         }
@@ -443,7 +444,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -506,8 +507,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 18时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 19时38分]"
         }
       ]
     }
