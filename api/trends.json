@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-06T15:53:35.137083+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-02-06T16:50:05.273735+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 16时50分]"
+        },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
           "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
@@ -19,16 +31,19 @@
           "time_info": "[00时55分 ~ 07时28分]"
         },
         {
-          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
-          "url": "https://news.ifeng.com/c/8qW59pknpCi",
-          "source": "凤凰网",
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
           "ranks": [
+            12,
+            10,
+            7,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 16时50分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -43,18 +58,15 @@
           "time_info": "[12时50分 ~ 15时53分]"
         },
         {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            10,
-            7,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时53分]"
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "美伊谈判在即，白宫称特朗普有“诸多选项”",
@@ -306,7 +318,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -471,6 +483,17 @@
           "time_info": "[00时55分 ~ 06时32分]"
         },
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 16时50分]"
+        },
+        {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
           "url": "https://www.zhihu.com/question/2002675555208803379",
           "source": "知乎",
@@ -484,17 +507,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时55分 ~ 07时28分]"
-        },
-        {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时53分]"
         },
         {
           "title": "美股收盘：纳指连续三天均跌超1%",
@@ -785,11 +797,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 16时50分]"
         }
       ]
     },
@@ -816,7 +829,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -845,8 +858,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 16时50分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
