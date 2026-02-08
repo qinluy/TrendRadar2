@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T06:32:05.108294+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-02-09T07:35:49.358296+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时35分]"
         },
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -107,12 +107,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时32分]"
+        },
+        {
+          "title": "美国总统特朗普祝贺日本首相高市早苗。",
+          "url": "https://flash.jin10.com/detail/20260209071519790800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -122,8 +133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时35分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -150,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时32分]"
+        },
+        {
+          "title": "美股三大股指期货周一盘初均涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260209070343004800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     },
@@ -166,8 +188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时35分]"
         }
       ]
     },
