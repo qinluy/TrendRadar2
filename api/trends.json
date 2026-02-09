@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T18:12:03.410526+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-02-09T19:49:23.331822+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,31 @@
           "time_info": "[00时36分 ~ 06时32分]"
         },
         {
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 19时49分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时04分 ~ 19时49分]"
+        },
+        {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
           "url": "https://flash.jin10.com/detail/20260208232345943800",
           "source": "金十数据",
@@ -59,29 +84,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时32分]"
-        },
-        {
-          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
-          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 18时12分]"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时04分 ~ 18时12分]"
         },
         {
           "title": "唯一能治住特朗普的生物出现了",
@@ -182,7 +184,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -204,7 +206,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -215,7 +217,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -234,7 +236,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -268,9 +270,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         },
         {
           "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
@@ -297,6 +310,17 @@
           "time_info": "[05时31分 ~ 06时32分]"
         },
         {
+          "title": "美股内存芯片制造商盘前走低，闪迪(SNDK.O)跌1.3%，希捷科技(STX.O)跌1.2%。",
+          "url": "https://flash.jin10.com/detail/20260209190334515800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
           "title": "美股三大股指期货周一盘初均涨0.2%。",
           "url": "https://flash.jin10.com/detail/20260209070343004800",
           "source": "金十数据",
@@ -314,7 +338,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
@@ -322,7 +346,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -369,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "道达尔能源公司将为谷歌(GOOG.O)在得州的数据中心提供1吉瓦太阳能电力，协议期限为15年。建设计划于二季度启动。",
+          "url": "https://flash.jin10.com/detail/20260209184350182800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时49分"
         }
       ]
     },
