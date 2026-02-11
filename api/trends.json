@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T17:57:47.726394+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-02-11T18:58:17.041515+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -41,13 +41,37 @@
           "time_info": "[01时06分 ~ 07时42分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 18时58分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时58分]"
+        },
+        {
           "title": "外交部回应特朗普涉中加合作言论",
           "url": "https://news.ifeng.com/c/8qetZSIVPBA",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -72,30 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
-        },
-        {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 17时57分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         },
         {
           "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
@@ -244,6 +244,18 @@
           "time_info": "[10时39分 ~ 13时06分]"
         },
         {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 18时58分]"
+        },
+        {
           "title": "美国总统特朗普预计，下周将与伊朗举行第二轮会谈。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3053203",
           "source": "华尔街见闻-快讯",
@@ -385,17 +397,6 @@
           "time_info": "16时54分"
         },
         {
-          "title": "外交部回应特朗普涉中加合作言论",
-          "url": "https://www.toutiao.com/trending/7605448481570897961/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
           "url": "https://wallstreetcn.com/livenews/3053222",
           "source": "华尔街见闻-快讯",
@@ -438,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-11）",
+          "url": "https://flash.jin10.com/detail/20260211181613310800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "特朗普称若美伊谈判失败，可能再派一个航母打击群前往中东",
@@ -597,7 +609,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -631,8 +643,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时39分 ~ 17时57分]"
+          "appearance_count": 6,
+          "time_info": "[10时39分 ~ 18时58分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -691,8 +703,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 17时57分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时58分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -781,6 +793,17 @@
           "time_info": "[06时44分 ~ 07时42分]"
         },
         {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
+        {
           "title": "美股1月日均成交额突破1万亿美元",
           "url": "https://flash.jin10.com/detail/20260211005235441800",
           "source": "金十数据",
@@ -798,7 +821,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
