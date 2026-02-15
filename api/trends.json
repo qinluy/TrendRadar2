@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-16T06:29:29.758436+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-02-16T07:31:43.528905+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 10,
       "titles": [
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时31分]"
+        },
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
           "url": "https://news.ifeng.com/c/8qlaP330gp4",
@@ -20,18 +32,6 @@
           "time_info": "[00时36分 ~ 03时29分]"
         },
         {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时29分]"
-        },
-        {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
           "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
           "source": "澎湃新闻",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
@@ -79,11 +79,12 @@
             25,
             24,
             5,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时41分 ~ 06时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时41分 ~ 07时31分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
@@ -116,11 +117,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时31分]"
         },
         {
           "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
@@ -128,11 +130,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时31分]"
         }
       ]
     },
@@ -149,19 +152,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时29分]"
-        },
-        {
-          "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
-          "url": "https://flash.jin10.com/detail/20260216054636166800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -169,11 +161,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时31分]"
+        },
+        {
+          "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
+          "url": "https://flash.jin10.com/detail/20260216054636166800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时29分]"
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
@@ -203,8 +208,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -215,11 +220,12 @@
             16,
             15,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 07时31分]"
         }
       ]
     },
@@ -235,8 +241,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时31分]"
         }
       ]
     },
@@ -252,11 +258,12 @@
             9,
             12,
             18,
-            24
+            24,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 07时31分]"
         }
       ]
     }
