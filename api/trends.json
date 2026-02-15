@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:33:01.077388+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-02-15T23:30:33.018215+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时36分 ~ 22时33分]"
+          "appearance_count": 9,
+          "time_info": "[17时36分 ~ 23时30分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时38分 ~ 23时30分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -43,21 +58,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时35分 ~ 10时35分]"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 22时33分]"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -116,18 +116,6 @@
           "time_info": "[00时35分 ~ 03时28分]"
         },
         {
-          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
-          "url": "https://flash.jin10.com/detail/20260215212555860800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 22时33分]"
-        },
-        {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
           "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
           "source": "凤凰网",
@@ -139,6 +127,19 @@
           "time_info": "[00时35分 ~ 03时28分]"
         },
         {
+          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
+          "url": "https://flash.jin10.com/detail/20260215212555860800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时30分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
           "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
@@ -146,11 +147,12 @@
             2,
             7,
             12,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 22时33分]"
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 23时30分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -172,11 +174,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 22时33分]"
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时30分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -191,6 +194,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时03分 ~ 18时31分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时30分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -232,17 +247,6 @@
           "time_info": "[19时26分 ~ 21时51分]"
         },
         {
-          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时33分]"
-        },
-        {
           "title": "奥巴马回应被特朗普恶搞成猴",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%B4%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -282,8 +286,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时35分 ~ 22时33分]"
+          "appearance_count": 14,
+          "time_info": "[10时35分 ~ 23时30分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -381,8 +385,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时26分 ~ 22时33分]"
+          "appearance_count": 7,
+          "time_info": "[19时26分 ~ 23时30分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
@@ -438,11 +442,12 @@
           "url": "https://flash.jin10.com/detail/20260215215525567800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 23时30分]"
         }
       ]
     },
@@ -455,11 +460,12 @@
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 22时33分]"
+          "appearance_count": 5,
+          "time_info": "[21时51分 ~ 23时30分]"
         },
         {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
