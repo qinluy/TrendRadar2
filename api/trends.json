@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-02-20T07:34:23.037213+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-02-20T10:26:36.527823+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 78,
       "titles": [
         {
-          "title": "特朗普宣称：美国已在“生活成本”战役中获胜",
-          "url": "https://wallstreetcn.com/livenews/3056824",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普被曝考虑军事打击伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8qt5v4Gxsqm",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时34分"
+          "time_info": "10时26分"
         },
         {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
@@ -43,6 +43,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
+          "url": "https://wallstreetcn.com/articles/3765876",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
           "url": "https://flash.jin10.com/detail/20260220021610767800",
           "source": "金十数据",
@@ -66,6 +77,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "特朗普宣称：美国已在“生活成本”战役中获胜",
+          "url": "https://wallstreetcn.com/livenews/3056824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 10时26分]"
         },
         {
           "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
@@ -355,6 +378,17 @@
           "time_info": "[00时58分 ~ 02时56分]"
         },
         {
+          "title": "特朗普开了前所未有的一个会",
+          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "据AXIOS网站：特朗普在加沙问题和平委员会首次会议上承诺投入100亿美元。",
           "url": "https://flash.jin10.com/detail/20260220045423529800",
           "source": "金十数据",
@@ -383,7 +417,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -399,15 +433,37 @@
           "time_info": "06时36分"
         },
         {
+          "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
+          "url": "https://wallstreetcn.com/livenews/3056840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "十天内对伊朗动手？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
           "url": "https://wallstreetcn.com/articles/3765876",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "特朗普：5000万桶委内瑞拉石油正运往休斯敦。",
@@ -427,7 +483,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -441,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "特朗普：奥巴马涉外星人言论泄密",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%B6%89%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A8%80%E8%AE%BA%E6%B3%84%E5%AF%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "特朗普：计划在必要时利用冗长辩论来推动“拯救美国法案”在美国国会获得通过。",
@@ -482,7 +549,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -507,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "特朗普称奥巴马涉外星人言论泄密",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%B6%89%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A8%80%E8%AE%BA%E6%B3%84%E5%AF%86%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -636,7 +714,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -707,6 +785,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "特朗普称将启动解密UFO与外星生命相关政府文件",
+          "url": "https://flash.jin10.com/detail/20260220093510098800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "美国总统特朗普兜售自己针对钢铁和钢铁衍生产品挑起的关税。 赞赏Coosa Steel Corp.。",
           "url": "https://wallstreetcn.com/livenews/3056785",
           "source": "华尔街见闻-快讯",
@@ -746,9 +835,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普称奥巴马外星人言论泄密",
+          "url": "https://flash.jin10.com/detail/20260220093035383800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "特朗普：如果没有和伊朗达成协议，将会发生糟糕的事情",
@@ -809,7 +909,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -832,8 +932,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 10时26分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 10时26分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 10时26分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -849,39 +974,16 @@
           "time_info": "[00时58分 ~ 06时36分]"
         },
         {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时34分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时34分]"
-        },
-        {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时34分]"
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 10时26分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -973,12 +1075,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时34分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -990,19 +1103,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 10时26分]"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
           "url": "https://wallstreetcn.com/livenews/3056822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 10时26分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -1029,13 +1143,35 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 04时37分]"
+        },
+        {
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "Gemini3.1 Pro上线",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.1%20Pro%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
         {
           "title": "巴克莱调查：谷歌今年发债规模料领跑超大规模云服务商",
           "url": "https://wallstreetcn.com/livenews/3056712",
