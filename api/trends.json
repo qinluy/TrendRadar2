@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T21:13:38.803034+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-02-23T22:52:47.805424+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -98,8 +98,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时00分 ~ 21时13分]"
+          "appearance_count": 6,
+          "time_info": "[17时00分 ~ 22时52分]"
         },
         {
           "title": "特朗普的亲家、美驻法大使因“不当言论”被法国外交部召见",
@@ -175,17 +175,20 @@
           "time_info": "[01时29分 ~ 07时31分]"
         },
         {
-          "title": "连锁反应来了，印度打脸特朗普",
-          "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
-          "source": "凤凰网",
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            6,
-            2
+            14,
+            13,
+            12,
+            9,
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 15时58分]"
+          "appearance_count": 7,
+          "time_info": "[15时58分 ~ 22时52分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
@@ -197,8 +200,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时00分 ~ 21时13分]"
+          "appearance_count": 6,
+          "time_info": "[17时00分 ~ 22时52分]"
+        },
+        {
+          "title": "连锁反应来了，印度打脸特朗普",
+          "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 15时58分]"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -225,19 +241,26 @@
           "time_info": "14时13分"
         },
         {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
+          "title": "市场消息：美国法官永久禁止公布特别检察官关于特朗普涉密文件案的报告。",
+          "url": "https://flash.jin10.com/detail/20260223221216873800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            13,
-            12,
-            9,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 21时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "特朗普计划对高级别工作者进行绩效评级改革。根据拟议规则，工作者无法质疑低评级。新提案同样覆盖科学家及专业工作者。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3057511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "【美国海关将从2月24日起停止征收被最高法院裁定违法的关税】美国海关与边境保护局（CBP）表示，将从美国东部时间2月24日起停止征收依据《国际紧急经济权力法》（IEEPA）开征的关税。 美国海关与边境保护局22日通过其货物系统消息服务表示，依据《国际紧急经济权力法》征收的关税将不再生效，并且对于从美国东部时间2月24日起进入消费市场或从仓库提取用于消费的货物，将不再征收这项关税。该消息还指出，暂停征收此项关税并不影响特朗普政府征收的任何其他关税。 此前，美国最高法院20日公布裁决，认定特朗普政府援引《国际紧急经济权力法》实施的大规模关税政策违法。（央视）",
@@ -249,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "特朗普：墨西哥必须加大力度打击贩毒集团和毒品。",
+          "url": "https://wallstreetcn.com/livenews/3057509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -324,6 +358,18 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时52分]"
+        },
+        {
           "title": "据纽约时报：知情人士透露，特朗普已告知顾问，如果外交手段或初步的针对性打击未能迫使伊朗屈服，将考虑在未来数月内发动更大规模攻击。",
           "url": "https://flash.jin10.com/detail/20260223053236773800",
           "source": "金十数据",
@@ -372,6 +418,28 @@
           "time_info": "[00时36分 ~ 01时29分]"
         },
         {
+          "title": "美国总统特朗普：墨西哥必须在打击贩毒集团和毒品方面加大力度。",
+          "url": "https://flash.jin10.com/detail/20260223220846985800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普计划对高级别员工的工作评级进行大修。",
+          "url": "https://flash.jin10.com/detail/20260223220756298800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "欲闯特朗普私宅被击毙男子身份曝光",
           "url": "https://www.toutiao.com/trending/7609813670050332722/",
           "source": "今日头条",
@@ -394,17 +462,6 @@
           "time_info": "10时32分"
         },
         {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
           "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
           "url": "https://flash.jin10.com/detail/20260223084819049800",
           "source": "金十数据",
@@ -422,7 +479,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -455,7 +512,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -477,7 +534,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -488,7 +545,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -499,7 +556,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -510,7 +567,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -540,7 +597,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -599,8 +656,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 21时13分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 22时52分]"
         },
         {
           "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
@@ -638,6 +695,17 @@
           "time_info": "19时42分"
         },
         {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "Arcellx美股盘前涨超76%，吉利德科学将以每股115美元的价格收购Arcellx。",
           "url": "https://wallstreetcn.com/livenews/3057446",
           "source": "华尔街见闻-快讯",
@@ -647,6 +715,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3057503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-23）",
+          "url": "https://flash.jin10.com/detail/20260223220342200800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
