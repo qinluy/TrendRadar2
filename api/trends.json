@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T06:39:12.585888+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-02-25T07:42:41.948717+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时42分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时42分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时42分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -62,11 +62,26 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时58分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 07时42分]"
+        },
+        {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时40分 ~ 07时42分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -91,17 +106,15 @@
           "time_info": "04时40分"
         },
         {
-          "title": "中方回应特朗普3月31日将访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "特朗普，走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            5,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 06时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -144,11 +157,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 06时39分]"
+          "appearance_count": 4,
+          "time_info": "[05时55分 ~ 07时42分]"
         },
         {
           "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
@@ -156,11 +170,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 07时42分]"
         },
         {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
@@ -199,6 +214,17 @@
           "time_info": "[05时55分 ~ 06时39分]"
         },
         {
+          "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
+          "url": "https://wallstreetcn.com/livenews/3058394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
@@ -232,6 +258,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
+          "url": "https://wallstreetcn.com/livenews/3058387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
           "url": "https://flash.jin10.com/detail/20260225022141993800",
           "source": "金十数据",
@@ -252,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
+          "url": "https://flash.jin10.com/detail/20260225062520187800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
@@ -301,7 +349,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -347,8 +395,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时42分]"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -480,6 +528,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
           "title": "数字货币市场在美股早盘反弹",
           "url": "https://wallstreetcn.com/livenews/3058269",
           "source": "华尔街见闻-快讯",
@@ -489,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         }
       ]
     },
@@ -518,22 +588,24 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 07时42分]"
         },
         {
           "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
           "url": "https://wallstreetcn.com/livenews/3058369",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时42分]"
         },
         {
           "title": "亚马逊：AWS在中东的客户可以使用Claude。",
@@ -623,6 +695,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
+          "url": "https://flash.jin10.com/detail/20260225040115362800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "OpenAI赢得诉讼：法官驳回xAI关于员工及代码被窃的指控",
+          "url": "https://wallstreetcn.com/livenews/3058374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -631,11 +731,12 @@
           "url": "https://www.toutiao.com/trending/7610332842534374955/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 07时42分]"
         }
       ]
     },
@@ -653,23 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
-          "url": "https://flash.jin10.com/detail/20260225040115362800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
         }
       ]
     }
