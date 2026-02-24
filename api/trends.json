@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T20:31:31.887252+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-02-24T21:14:22.108253+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,17 @@
           "time_info": "[01时01分 ~ 05时52分]"
         },
         {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 21时14分]"
+        },
+        {
           "title": "【早报】仅1纳米、功耗最低！北大实现芯片领域重要突破；美最高法院裁定特朗普政府关税政策违法",
           "url": "https://www.cls.cn/detail/2293072",
           "source": "财联社热门",
@@ -55,15 +66,16 @@
           "time_info": "[10时54分 ~ 14时02分]"
         },
         {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
           "ranks": [
-            3
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 20时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时14分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -79,18 +91,6 @@
           "time_info": "[01时01分 ~ 07时37分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 20时31分]"
-        },
-        {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
           "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
@@ -102,6 +102,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时54分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 21时14分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -130,16 +142,15 @@
           "time_info": "[14时01分 ~ 17时57分]"
         },
         {
-          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
-          "url": "https://www.cls.cn/detail/2293302",
-          "source": "财联社热门",
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
           "ranks": [
-            10,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时53分 ~ 20时31分]"
+          "time_info": "[16时54分 ~ 21时14分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -165,15 +176,17 @@
           "time_info": "14时02分"
         },
         {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            14,
+            12,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时54分 ~ 20时31分]"
+          "time_info": "[17时56分 ~ 21时14分]"
         },
         {
           "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
@@ -285,19 +298,6 @@
           "time_info": "[05时52分 ~ 06时59分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 20时31分]"
-        },
-        {
           "title": "美媒：尽管特朗普发文 但并无美国医院船奉命前往格陵兰岛",
           "url": "https://flash.jin10.com/detail/20260224062743419800",
           "source": "金十数据",
@@ -334,6 +334,19 @@
           "time_info": "[16时54分 ~ 18时54分]"
         },
         {
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.toutiao.com/trending/7609338724627234859/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 21时14分]"
+        },
+        {
           "title": "美国国会预算办公室主任斯瓦格尔：静待特朗普政府作出决定，一旦获得最新预测数据将及时公布。",
           "url": "https://flash.jin10.com/detail/20260224061914251800",
           "source": "金十数据",
@@ -344,18 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时37分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.toutiao.com/trending/7609338724627234859/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 20时31分]"
         },
         {
           "title": "特朗普对垒最高法院上演“关税迷云”，对全球贸易和美国经济意味着什么？",
@@ -807,7 +808,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -818,8 +819,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时54分 ~ 20时31分]"
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 21时14分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -832,8 +833,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时54分 ~ 20时31分]"
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 21时14分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -898,15 +899,18 @@
           "time_info": "[06时59分 ~ 07时37分]"
         },
         {
-          "title": "META美股盘前走低，现跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3058129",
-          "source": "华尔街见闻-快讯",
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
           "ranks": [
-            1
+            10,
+            9,
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时14分]"
         },
         {
           "title": "台积电(TSM.N)美股盘前涨超2%。",
@@ -920,28 +924,16 @@
           "time_info": "18时54分"
         },
         {
-          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
-          "url": "https://wallstreetcn.com/livenews/3058124",
+          "title": "META美股盘前走低，现跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3058129",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 20时31分]"
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
@@ -966,6 +958,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时59分]"
+        },
+        {
+          "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
+          "url": "https://wallstreetcn.com/livenews/3058124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时14分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
@@ -1021,7 +1025,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1081,13 +1085,24 @@
           "time_info": "06时59分"
         },
         {
+          "title": "诺和诺德(NVO.N)美股盘前下跌约3%。",
+          "url": "https://flash.jin10.com/detail/20260224204400024800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "家得宝调第四季度整后每股收益2.72美元，上年同期3.13美元，预估2.55美元。 第四季度每股收益2.58美元，上年同期3.02美元。 第四季度销售净额382.0亿美元，同比下降3.8%，预估382.7亿美元。 第四季度同店销售增长0.4％，预估下降0.36％。 家得宝预计全年营收变动大约增长2.5％至4.5％。 家得宝预计全年同店销售大约增长0％至2％，预估增长1.71％。 家得宝美股盘前涨2.5%。",
           "url": "https://wallstreetcn.com/livenews/3058092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         }
@@ -1116,7 +1131,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         },
@@ -1139,7 +1154,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         }
@@ -1206,9 +1221,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时14分]"
         },
         {
           "title": "Anthropic：Claude Code能自动Cobol现代化。",
