@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T14:01:25.431576+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-02-26T15:13:44.058952+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时01分]"
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 15时13分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时01分]"
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 15时13分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -89,6 +89,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时32分]"
+        },
+        {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 15时13分]"
+        },
+        {
+          "title": "特朗普把国情咨文演讲开成吹牛大会",
+          "url": "https://www.toutiao.com/trending/7611003629566168602/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 15时13分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -125,28 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时40分]"
-        },
-        {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
-        },
-        {
-          "title": "特朗普把国情咨文演讲开成吹牛大会",
-          "url": "https://www.toutiao.com/trending/7611003629566168602/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
         },
         {
           "title": "市场消息：美国法官驳回了特朗普的一项政策，该政策允许将移民迅速驱逐到其本国以外的国家。",
@@ -277,6 +278,17 @@
           "time_info": "[00时07分 ~ 06时38分]"
         },
         {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时13分]"
+        },
+        {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2295156",
           "source": "财联社热门",
@@ -289,27 +301,17 @@
           "time_info": "[00时07分 ~ 14时01分]"
         },
         {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 14时01分]"
-        },
-        {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
           "url": "https://www.cls.cn/detail/2295296",
           "source": "财联社热门",
           "ranks": [
             13,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 14时01分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时13分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -567,7 +569,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "消息人士：在欧盟提出反垄断指控后，谷歌(GOOG.O)将测试搜索引擎结果的调整。新提案将提升搜索结果中竞争对手的曝光度。新提案即将在欧洲推出，最初将适用于住宿搜索。",
@@ -637,6 +639,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时40分]"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260226141522219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "马来西亚总理：与Alphabet和谷歌的总裁兼首席投资官Ruth Porat及其团队进行了视频会议。我们讨论了谷歌在马来西亚的20亿美元投资进展。该项目进展顺利，超出了最初的预期。",
+          "url": "https://flash.jin10.com/detail/20260226141504282800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
