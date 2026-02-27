@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T16:47:29.531253+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-02-27T17:46:31.906484+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
             17,
             19,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 16时47分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 17时46分]"
         },
         {
           "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
@@ -72,6 +73,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 17时46分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -124,18 +137,6 @@
           "time_info": "[14时59分 ~ 15时52分]"
         },
         {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 16时47分]"
-        },
-        {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
@@ -148,6 +149,18 @@
           "time_info": "[12时48分 ~ 14时59分]"
         },
         {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 17时46分]"
+        },
+        {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
           "url": "https://wallstreetcn.com/livenews/3059979",
           "source": "华尔街见闻-快讯",
@@ -158,6 +171,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时48分 ~ 13时55分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 17时46分]"
         },
         {
           "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
@@ -196,17 +221,6 @@
           "time_info": "[02时57分 ~ 03时47分]"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时47分]"
-        },
-        {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
           "url": "https://flash.jin10.com/detail/20260227003534213800",
           "source": "金十数据",
@@ -227,17 +241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -594,7 +597,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -704,6 +707,17 @@
           "time_info": "15时52分"
         },
         {
+          "title": "多邻国美股盘前跌超20%，2026年营收预计低于分析师预期。",
+          "url": "https://wallstreetcn.com/livenews/3060176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
           "url": "https://flash.jin10.com/detail/20260227053003552800",
           "source": "金十数据",
@@ -759,6 +773,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "奈飞美股盘前涨近9%，放弃竞购华纳兄弟，派拉蒙成为赢家；戴尔科技盘前涨逾12%，公司预计今年AI服务器收入将翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3060167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "CoreWeave美股盘后跌幅扩大至12%。",
           "url": "https://wallstreetcn.com/livenews/3059799",
           "source": "华尔街见闻-快讯",
@@ -793,11 +818,12 @@
           "ranks": [
             20,
             25,
-            23
+            23,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 17时46分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
