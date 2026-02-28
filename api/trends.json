@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T22:27:01.145423+08:00",
-  "total_titles_processed": 2060,
+  "generated_at": "2026-02-28T23:27:17.909055+08:00",
+  "total_titles_processed": 2146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 112,
+      "match_count": 117,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时07分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时07分 ~ 23时27分]"
         },
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -60,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时07分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时07分 ~ 23时27分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -103,6 +103,18 @@
           "time_info": "[00时44分 ~ 07时29分]"
         },
         {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时35分 ~ 23时27分]"
+        },
+        {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
           "source": "澎湃新闻",
@@ -139,18 +151,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时34分 ~ 21时39分]"
-        },
-        {
-          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
-          "url": "https://wallstreetcn.com/articles/3766399",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时35分 ~ 22时27分]"
         },
         {
           "title": "特朗普宣布打击伊朗",
@@ -244,6 +244,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "美广播机构称正向伊朗境内播放特朗普呼吁政权更迭的内容",
+          "url": "https://wallstreetcn.com/livenews/3060912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "特朗普呼吁伊朗政权更迭",
           "url": "https://news.ifeng.com/c/8r784Gm9EgQ",
           "source": "凤凰网",
@@ -321,6 +332,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普通了电话。",
+          "url": "https://flash.jin10.com/detail/20260228231733168800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
           "url": "https://www.zhihu.com/question/2011106976499724764",
           "source": "知乎",
@@ -333,6 +355,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时31分 ~ 20时53分]"
+        },
+        {
+          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时53分 ~ 23时27分]"
         },
         {
           "title": "美国总统特朗普：将在美国提炼委内瑞拉石油，并对部分石油进行出口。",
@@ -466,17 +500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时27分]"
         },
         {
           "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
@@ -917,7 +940,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -964,6 +987,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "白宫：特朗普今日不会就对伊朗打击行动发表更多正式公开讲话",
+          "url": "https://wallstreetcn.com/livenews/3060903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "据华尔街日报：美国共和党人敦促特朗普叫停英国在迪戈加西亚岛建设军事基地的计划。",
@@ -1043,6 +1077,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "美广播机构称正向伊朗境内播放特朗普呼吁政权更迭的内容",
+          "url": "https://flash.jin10.com/detail/20260228230244012800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国总统特朗普谈及得州水危机，称：我们将处理这个问题。",
           "url": "https://wallstreetcn.com/livenews/3060558",
           "source": "华尔街见闻-快讯",
@@ -1118,6 +1163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "美国官员表示，特朗普在伊朗袭击前已被告知该行动将是高风险及高回报的。",
+          "url": "https://flash.jin10.com/detail/20260228225846837800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国总统特朗普称，周五预计将举行更多伊朗相关谈判。（路透）",
@@ -1247,7 +1303,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1302,7 +1358,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1366,8 +1422,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时43分 ~ 22时27分]"
+          "appearance_count": 13,
+          "time_info": "[14时43分 ~ 23时27分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1535,8 +1591,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时07分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时07分 ~ 23时27分]"
         },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -1547,8 +1603,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时31分 ~ 22时27分]"
+          "appearance_count": 11,
+          "time_info": "[15时31分 ~ 23时27分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -1585,11 +1641,12 @@
             14,
             11,
             8,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时27分]"
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
