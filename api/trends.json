@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:41:57.717807+08:00",
-  "total_titles_processed": 1691,
+  "generated_at": "2026-03-01T22:28:56.616447+08:00",
+  "total_titles_processed": 1771,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时57分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[12时57分 ~ 22时28分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时37分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[10时37分 ~ 22时28分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -80,11 +80,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时37分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[10时37分 ~ 22时28分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -163,6 +164,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 22时28分]"
         },
         {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
@@ -258,18 +272,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时38分 ~ 05时25分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 21时41分]"
         },
         {
           "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
@@ -940,8 +942,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 21时41分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 22时28分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
