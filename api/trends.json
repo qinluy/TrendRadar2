@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T18:30:35.636247+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-03-01T19:24:12.236160+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -20,6 +20,19 @@
           "time_info": "[00时31分 ~ 10时37分]"
         },
         {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时57分 ~ 19时24分]"
+        },
+        {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
           "url": "https://wallstreetcn.com/articles/3766446",
           "source": "华尔街见闻",
@@ -30,21 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时37分 ~ 18时30分]"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时57分 ~ 18时30分]"
+          "appearance_count": 12,
+          "time_info": "[10时37分 ~ 19时24分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -83,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时37分 ~ 18时30分]"
+          "appearance_count": 12,
+          "time_info": "[10时37分 ~ 19时24分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -445,6 +445,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时56分 ~ 14时53分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
@@ -912,11 +923,12 @@
             10,
             9,
             8,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 18时30分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 19时24分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
