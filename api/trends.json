@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T10:37:53.870725+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-03-01T12:57:33.410818+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 66,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -39,11 +39,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 10时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时57分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -220,6 +221,18 @@
           "time_info": "[06时27分 ~ 07时27分]"
         },
         {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 12时57分]"
+        },
+        {
           "title": "据NBC新闻：美国总统特朗普（被问及谁将接替伊朗最高领袖哈梅内伊时）表示，“我不知道，但总有一天他们会打电话问我想要谁”。他补充道，\"我这么说只是稍微带点讽刺意味。\"",
           "url": "https://flash.jin10.com/detail/20260301050933713800",
           "source": "金十数据",
@@ -270,6 +283,17 @@
           "time_info": "[01时24分 ~ 03时24分]"
         },
         {
+          "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
+          "url": "https://www.zhihu.com/question/2011106123147675013",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 12时57分]"
+        },
+        {
           "title": "特朗普发文确认：伊朗最高领袖哈梅内伊已死 精准轰炸将持续进行",
           "url": "https://flash.jin10.com/detail/20260301054807770800",
           "source": "金十数据",
@@ -280,6 +304,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
+        },
+        {
+          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
+          "url": "https://wallstreetcn.com/livenews/3061046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 12时57分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时37分 ~ 12时57分]"
         },
         {
           "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
@@ -342,26 +389,15 @@
           "time_info": "[06时27分 ~ 07时27分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
           "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
-          "url": "https://www.zhihu.com/question/2011106123147675013",
-          "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "12时57分"
         },
         {
           "title": "伊朗少将阿卜杜拉希（Abdollahi）：特朗普应该知道，这一次他不再负责结束战争，而伊朗将决定战争的终结。",
@@ -373,28 +409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
-          "url": "https://wallstreetcn.com/livenews/3061046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时37分"
         },
         {
           "title": "据以色列第12频道报道，特朗普看到了哈梅内伊遗体的照片。",
@@ -425,7 +439,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -439,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/livenews/3061056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "特朗普政府高级官员：美国曾向伊朗提出多种途径，使其核计划走向文明、和平，但伊方却玩弄手段、欺骗敷衍。",
@@ -474,6 +499,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32676301",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "特朗普政府高级官员：美国谈判代表认定，伊朗显然希望保留铀浓缩能力，以便日后开展核武器计划。",
           "url": "https://flash.jin10.com/detail/20260301035747961800",
           "source": "金十数据",
@@ -502,7 +538,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -612,7 +648,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -634,7 +670,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -678,7 +714,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -722,7 +758,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         }
@@ -730,7 +766,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -746,8 +782,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 10时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时57分]"
         },
         {
           "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
@@ -803,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
+          "url": "https://flash.jin10.com/detail/20260301120433529800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，人工智能系统不得用于对美国公民隐私信息的无限制监控。除非适用法律允许，该系统也不得用于国内执法活动。",
