@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T14:56:22.652392+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-03-06T15:41:31.702917+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时08分 ~ 14时56分]"
+          "appearance_count": 13,
+          "time_info": "[02时08分 ~ 15时41分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -28,19 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 15时41分]"
         },
         {
           "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
           "url": "https://www.cls.cn/detail/2304524",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 15时41分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -76,6 +77,18 @@
           "time_info": "[10时24分 ~ 13时49分]"
         },
         {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时54分 ~ 15时41分]"
+        },
+        {
           "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -87,16 +100,15 @@
           "time_info": "[13时49分 ~ 14时56分]"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时54分 ~ 14时56分]"
+          "time_info": "[10时24分 ~ 15时41分]"
         },
         {
           "title": "特朗普在白宫接见梅西",
@@ -108,17 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 10时25分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 14时56分]"
         },
         {
           "title": "特朗普新关税再遭法律挑战 多州拟联合起诉",
@@ -163,6 +164,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时08分 ~ 06时36分]"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府",
+          "url": "https://www.toutiao.com/trending/7613919843846897683/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 15时41分]"
         },
         {
           "title": "美国国防部长赫格塞思：（被问及特朗普有关“有权决定伊朗下一任领导人”的言论）美国并未扩大其在伊朗的军事目标。",
@@ -211,18 +225,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时24分 ~ 12时45分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府",
-          "url": "https://www.toutiao.com/trending/7613919843846897683/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时56分]"
         },
         {
           "title": "美国24州联合起诉特朗普政府",
@@ -298,6 +300,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
+          "url": "https://www.cls.cn/detail/2304532",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时41分]"
         },
         {
           "title": "特朗普：即将采取进一步措施缓解油市压力",
@@ -380,17 +394,6 @@
           "time_info": "02时08分"
         },
         {
-          "title": "伊朗战火下美汽油价格大涨 特朗普：不担心，无意动用战略油储！",
-          "url": "https://www.cls.cn/detail/2304532",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
           "title": "特朗普谈油价：涨就涨吧，军事行动重要得多",
           "url": "https://flash.jin10.com/detail/20260306045155124800",
           "source": "金十数据",
@@ -435,6 +438,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "特朗普政府正在权衡降低油价的所有选项",
           "url": "https://flash.jin10.com/detail/20260306044548051800",
           "source": "金十数据",
@@ -452,7 +466,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -668,8 +682,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时54分 ~ 14时56分]"
+          "appearance_count": 8,
+          "time_info": "[07时54分 ~ 15时41分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -681,8 +695,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时36分 ~ 14时56分]"
+          "appearance_count": 9,
+          "time_info": "[06时36分 ~ 15时41分]"
         },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
@@ -876,8 +890,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 14时56分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 15时41分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
