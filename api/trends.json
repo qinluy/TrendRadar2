@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:32:14.597246+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-03-07T16:36:35.308138+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时10分 ~ 15时32分]"
+          "appearance_count": 10,
+          "time_info": "[10时10分 ~ 16时36分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -124,6 +124,17 @@
           "time_info": "[13时40分 ~ 14时47分]"
         },
         {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 16时36分]"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗）无条件投降可能是（伊朗人）宣布无条件投降，也可能是他们再也无法战斗，没有人或东西可以战斗时。",
           "url": "https://flash.jin10.com/detail/20260307033923007800",
           "source": "金十数据",
@@ -155,17 +166,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时36分 ~ 07时31分]"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时47分 ~ 15时32分]"
         },
         {
           "title": "特朗普称美军工企业同意将“精良级”武器产量“翻两番”",
@@ -377,8 +377,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 15时32分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 16时36分]"
         },
         {
           "title": "非农疲软提振降息预期，美债走高，美股指低开，纳指跌超1.4%，WTI原油近两年来首破86美元，现货黄金短线拉升",
