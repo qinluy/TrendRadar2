@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T14:01:53.676828+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-03-09T15:15:32.636447+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -84,6 +84,30 @@
           "time_info": "[00时34分 ~ 05时28分]"
         },
         {
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 15时15分]"
+        },
+        {
+          "title": "美媒劝特朗普见好就收",
+          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 15时15分]"
+        },
+        {
           "title": "美以伊战争｜伊朗新任最高领袖公布，特朗普回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -117,9 +141,9 @@
           "time_info": "10时29分"
         },
         {
-          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
-          "url": "https://wallstreetcn.com/articles/3766987",
-          "source": "华尔街见闻",
+          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
+          "url": "https://www.cls.cn/detail/2306588",
+          "source": "财联社热门",
           "ranks": [
             8,
             5,
@@ -127,7 +151,7 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时29分 ~ 14时01分]"
+          "time_info": "[12时55分 ~ 15时15分]"
         },
         {
           "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
@@ -139,17 +163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "美媒劝特朗普见好就收",
-          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
         },
         {
           "title": "加拿大总理卡尼与特朗普讨论了中东局势和贸易关系。",
@@ -225,18 +238,6 @@
           "time_info": "[03时27分 ~ 04时31分]"
         },
         {
-          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
-          "url": "https://www.cls.cn/detail/2306588",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时01分]"
-        },
-        {
           "title": "特朗普回应何时结束对伊朗战争",
           "url": "https://news.ifeng.com/c/8rLbjuEPPDA",
           "source": "凤凰网",
@@ -244,8 +245,32 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时15分]"
+        },
+        {
+          "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普称适时结束对伊军事行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%80%82%E6%97%B6%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时01分]"
+          "time_info": "[14时01分 ~ 15时15分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：由于特朗普鲁莽选择战争，油价飙升至多年来的最高水平。而他根本不在乎。今天，我要求特朗普立即从战略石油储备中释放石油，以减轻美国人加油的压力。",
@@ -308,17 +333,6 @@
           "time_info": "[05时28分 ~ 06时28分]"
         },
         {
-          "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时01分]"
-        },
-        {
           "title": "法国总统马克龙：我们还讨论了加沙和西岸的情况。伊朗和中东的局势发展不应减缓我们实施特朗普总统提出的和平计划第二阶段的努力。我们特别呼吁全面重新开放拉法口岸，因为这对人道主义援助至关重要。在地区局势紧张之际，我们决心为降低紧张局势、恢复中东和平而努力。",
           "url": "https://flash.jin10.com/detail/20260309013344642800",
           "source": "金十数据",
@@ -331,15 +345,16 @@
           "time_info": "[02时39分 ~ 03时27分]"
         },
         {
-          "title": "特朗普称适时结束对伊军事行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%80%82%E6%97%B6%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
+          "title": "评论员谈中国回绝特朗普“G2之邀”",
+          "url": "https://www.toutiao.com/trending/7614888612266311722/",
+          "source": "今日头条",
           "ranks": [
-            6
+            18,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时15分]"
         },
         {
           "title": "加拿大总理办公室：加拿大总理卡尼与美国总统特朗普一致同意保持密切联系。",
@@ -397,6 +412,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "分析师：市场走势与特朗普目标背道而驰",
+          "url": "https://flash.jin10.com/detail/20260309144934055800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "知情人士：特朗普政府拟与古巴达成经济协议",
           "url": "https://flash.jin10.com/detail/20260309031144229800",
           "source": "金十数据",
@@ -419,15 +445,15 @@
           "time_info": "07时28分"
         },
         {
-          "title": "评论员谈中国回绝特朗普“G2之邀”",
-          "url": "https://www.toutiao.com/trending/7614888612266311722/",
+          "title": "美媒使用旧视频掩盖特朗普失礼行为",
+          "url": "https://www.toutiao.com/trending/7615121103565340681/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "15时15分"
         },
         {
           "title": "伊朗高官：特朗普不懂伊朗",
@@ -505,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普称适时结束对伊军事行动",
+          "url": "https://www.douyin.com/hot/2423798",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
