@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T02:58:49.041605+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-10T03:44:56.292291+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 32,
       "titles": [
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -26,8 +26,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "特朗普称战争已基本结束",
+          "url": "https://flash.jin10.com/detail/20260310033859998800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "据媒体报道，特朗普认为针对伊朗的战事已基本接近尾声。美军行动进展已大幅领先于最初预估的4至5周时间表。 原油价格日内转跌，WTI原油价格跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/3066705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "特朗普：澳大利亚总理正在处理伊朗女足队员安置问题",
@@ -81,8 +114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -92,8 +125,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
@@ -103,8 +136,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3066669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时44分]"
         },
         {
           "title": "美国总统特朗普：（就油价问题）我对一切都有计划。",
@@ -118,6 +163,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "消息人士：美国总统特朗普政府正考虑在油价飙升之际进一步放松对俄石油制裁。",
+          "url": "https://flash.jin10.com/detail/20260310033150040800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
           "title": "Anthropic就“供应链风险”标签起诉美国总统特朗普的国防部。",
           "url": "https://wallstreetcn.com/livenews/3066605",
           "source": "华尔街见闻-快讯",
@@ -129,15 +185,37 @@
           "time_info": "00时02分"
         },
         {
-          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
-          "url": "https://wallstreetcn.com/livenews/3066669",
+          "title": "特朗普家族增加国防投资，部署一家新型无人机企业",
+          "url": "https://wallstreetcn.com/livenews/3066695",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普：（警告伊朗）他们已经把该打的都打完了，最好别耍什么花招，否则这个国家就完了。",
+          "url": "https://flash.jin10.com/detail/20260310033035774800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及霍尔木兹海峡）现在船只正在通过，但“正在考虑控制它”。",
+          "url": "https://flash.jin10.com/detail/20260310033017745800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时44分"
         },
         {
           "title": "黎巴嫩请求特朗普政府斡旋与以色列的直接和平谈判，以结束冲突。",
@@ -146,7 +224,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -157,7 +235,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -171,6 +249,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "克里姆林宫：美国总统特朗普已致电俄罗斯总统普京，讨论伊朗和乌克兰问题。美国总统特朗普再次表示希望乌克兰冲突尽快结束。通话持续约一小时，富有建设性，务实且坦诚。",
+          "url": "https://flash.jin10.com/detail/20260310032634119800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普：我认为伊朗战争已经非常彻底，几乎结束了。",
+          "url": "https://flash.jin10.com/detail/20260310032508468800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普表示，他已考虑好接替伊朗最高领袖哈梅内伊的人选，但未作详细说明。",
+          "url": "https://flash.jin10.com/detail/20260310032433154800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "美媒：特朗普称距离向伊朗派遣美军地面部队“还差得远”",
@@ -190,7 +301,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -201,9 +312,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普称美国在伊朗问题上“远远”领先于他最初预估的4-5周时间。",
+          "url": "https://flash.jin10.com/detail/20260310032214674800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "特朗普：现在谈论夺取伊朗石油为时尚早",
@@ -212,9 +334,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：战争可能很快就会结束。",
+          "url": "https://flash.jin10.com/detail/20260310032035655800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "特朗普政府已发出传票，要求调取亚利桑那州2020年选举记录。这是美国总统为重新审理他输掉的选举而采取的最新举措。",
@@ -223,7 +356,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -231,7 +364,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -250,11 +383,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
@@ -266,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260310032807160800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         }
       ]
     },
@@ -295,6 +440,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（3月9日）纽约尾盘，ICE美元指数涨0.19%，报99.173点，日内交投区间为98.978–99.695点，亚太早盘刷新日高，随后逐步回落。 彭博美元指数涨0.10%，报1204.63点，日内交投区间为1202.96-1211.49点。",
+          "url": "https://wallstreetcn.com/livenews/3066702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic：计划在Claude Code中推出“代码审查”（Code Review）功能，该功能将率在Claude for Teams和Claude for Enterprise客户的研究预览版中推出。",
+          "url": "https://wallstreetcn.com/livenews/3066700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         }
       ]
     }
