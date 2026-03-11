@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T15:50:31.843376+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-03-11T16:48:57.556265+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -73,8 +73,32 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时15分 ~ 16时48分]"
+        },
+        {
+          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
+          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 16时48分]"
+        },
+        {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时15分 ~ 15时50分]"
+          "time_info": "[12时46分 ~ 16时48分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -88,41 +112,6 @@
           "time_info": "[05时32分 ~ 06时33分]"
         },
         {
-          "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
-          "url": "https://news.ifeng.com/c/8rP5MhiF7B8",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 15时50分]"
-        },
-        {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时50分]"
-        },
-        {
-          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
@@ -132,8 +121,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时15分 ~ 15时50分]"
+          "appearance_count": 7,
+          "time_info": "[10时15分 ~ 16时48分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -145,8 +134,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时15分 ~ 15时50分]"
+          "appearance_count": 7,
+          "time_info": "[10时15分 ~ 16时48分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普吹上了：帮中国通过海峡，很荣幸",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时53分]"
         },
         {
           "title": "美以伊战争｜英媒：特朗普想要脱身，没那么容易",
@@ -191,6 +191,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 16时48分]"
         },
         {
           "title": "普京与特朗普通话讨论伊朗局势",
@@ -241,18 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时38分]"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 15时50分]"
         },
         {
           "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
@@ -538,7 +538,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -560,8 +560,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 15时50分]"
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 16时48分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -723,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "甲骨文美股盘前涨超11%，公司营收指引超预期。",
+          "url": "https://wallstreetcn.com/livenews/3067922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "波音(BA.N)公布2月交付数据公布后，美股股价下跌3.1%。",
