@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T14:59:49.315534+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-03-13T15:52:13.136837+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时52分]"
         },
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -62,8 +63,35 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时59分]"
+          "appearance_count": 5,
+          "time_info": "[12时47分 ~ 15时52分]"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时52分]"
+        },
+        {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 15时52分]"
         },
         {
           "title": "特朗普：伊朗的一切都在被摧毁",
@@ -101,30 +129,16 @@
           "time_info": "[07时32分 ~ 12时47分]"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时59分]"
-        },
-        {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
           "source": "财联社热门",
           "ranks": [
-            10,
             9,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时25分 ~ 14时59分]"
+          "time_info": "[13时52分 ~ 15时52分]"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
@@ -187,17 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时31分]"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时59分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们主动出击，以前所未有的力量进行强力打击。我们与美国建立了前所未有的联盟，与我的个人朋友、总统唐纳德·特朗普紧密合作。",
@@ -297,7 +300,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -396,8 +399,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时31分 ~ 14时59分]"
+          "appearance_count": 8,
+          "time_info": "[06时31分 ~ 15时52分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -407,8 +410,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时59分]"
+          "appearance_count": 5,
+          "time_info": "[12时47分 ~ 15时52分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -439,7 +442,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
