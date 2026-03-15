@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T21:02:25.006079+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-03-15T21:54:16.202413+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,20 @@
           "time_info": "[00时37分 ~ 06时31分]"
         },
         {
+          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
+          "url": "https://wallstreetcn.com/articles/3767534",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时08分 ~ 21时54分]"
+        },
+        {
           "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
           "url": "https://wallstreetcn.com/articles/3767495",
           "source": "华尔街见闻",
@@ -68,20 +82,6 @@
           "time_info": "[00时37分 ~ 13时09分]"
         },
         {
-          "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
-          "url": "https://wallstreetcn.com/articles/3767534",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 21时02分]"
-        },
-        {
           "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
           "url": "https://wallstreetcn.com/articles/3767540",
           "source": "华尔街见闻",
@@ -91,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 21时02分]"
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 21时54分]"
         },
         {
           "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
@@ -104,8 +104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时42分 ~ 21时54分]"
         },
         {
           "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
@@ -178,11 +178,26 @@
             15,
             13,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时42分 ~ 21时54分]"
+        },
+        {
+          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016064576173598421",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时42分 ~ 21时54分]"
         },
         {
           "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
@@ -197,17 +212,40 @@
           "time_info": "[00时37分 ~ 07时32分]"
         },
         {
-          "title": "特朗普宣布空袭伊朗石油出口枢纽「哈尔克岛」，其战略地位有多重要？若岛上石油设施被摧毁，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2016064576173598421",
-          "source": "知乎",
+          "title": "特朗普点名日本护航，高市早苗压力陡增",
+          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            11,
-            12
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 21时54分]"
+        },
+        {
+          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
+          "url": "https://wallstreetcn.com/articles/3767537",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 21时54分]"
+        },
+        {
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 21时54分]"
         },
         {
           "title": "特朗普否认5架美军加油机被毁",
@@ -222,41 +260,6 @@
           "time_info": "[00时37分 ~ 10时42分]"
         },
         {
-          "title": "特朗普点名日本护航，高市早苗压力陡增",
-          "url": "https://news.ifeng.com/c/8rW2UeZFjwy",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
-          "url": "https://wallstreetcn.com/articles/3767537",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
-          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 21时02分]"
-        },
-        {
           "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
           "url": "https://wallstreetcn.com/articles/3767538",
           "source": "华尔街见闻",
@@ -265,8 +268,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 21时02分]"
+          "appearance_count": 6,
+          "time_info": "[16时41分 ~ 21时54分]"
         },
         {
           "title": "美以伊战争丨特朗普：多国将与美国一同派军舰",
@@ -309,6 +312,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时09分 ~ 18时34分]"
+        },
+        {
+          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
+          "url": "https://wallstreetcn.com/articles/3767541",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时54分]"
         },
         {
           "title": "伊朗深夜发动2波打击！美方：已有13名美军阵亡！驻日美军“准航母”及海军陆战队被调往中东，特朗普：只要有需要，战争将持续",
@@ -390,18 +405,6 @@
           "time_info": "[17时39分 ~ 19时31分]"
         },
         {
-          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
-          "url": "https://wallstreetcn.com/articles/3767541",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 21时02分]"
-        },
-        {
           "title": "特朗普呼吁盟友共同维护霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260315030037071800",
           "source": "金十数据",
@@ -466,6 +469,19 @@
           "time_info": "[10时42分 ~ 16时41分]"
         },
         {
+          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
+          "url": "https://www.cls.cn/detail/2313186",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时54分]"
+        },
+        {
           "title": "特朗普声称伊朗已被“彻底击败”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32767088",
           "source": "澎湃新闻",
@@ -476,18 +492,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时42分 ~ 13时09分]"
-        },
-        {
-          "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
-          "url": "https://www.cls.cn/detail/2313186",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 21时02分]"
         },
         {
           "title": "特朗普称与泽连斯基达成协议要“困难得多”",
@@ -555,7 +559,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -640,11 +644,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 21时54分]"
         },
         {
           "title": "美股“异相”：ETF成交量飙升",
