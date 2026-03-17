@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T06:38:02.910786+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-03-18T07:36:48.178464+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时03分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[02时03分 ~ 07时36分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时36分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时36分]"
         },
         {
           "title": "格雷厄姆警告美国盟友：特朗普从未如此生气",
@@ -148,11 +148,36 @@
           "url": "https://wallstreetcn.com/articles/3767756",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时37分 ~ 07时36分]"
+        },
+        {
+          "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
+          "url": "https://wallstreetcn.com/livenews/3071928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时37分 ~ 06时38分]"
+          "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
+          "url": "https://wallstreetcn.com/livenews/3071927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时36分]"
         },
         {
           "title": "特朗普称对北约很失望",
@@ -196,7 +221,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -212,26 +237,15 @@
           "time_info": "00时16分"
         },
         {
-          "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
-          "url": "https://wallstreetcn.com/livenews/3071928",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
+          "url": "https://www.cls.cn/detail/2316154",
+          "source": "财联社热门",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
-          "url": "https://wallstreetcn.com/livenews/3071927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
+          "time_info": "07时36分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
@@ -240,7 +254,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -325,7 +339,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -358,8 +372,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时36分]"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
@@ -372,6 +386,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时42分]"
+        },
+        {
+          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
+          "url": "https://www.cls.cn/detail/2316130",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "美光科技股价上涨3.34%，报456.57美元/股，创盘中历史新高，（盘中）市值报5139亿美元。 美光科技成为本轮美股科技股调整以来，首个创下历史新高的主要科技股票。",
@@ -535,7 +560,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。",
@@ -544,7 +569,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -558,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。 谷歌与DTE提议，为中心提供长达20年的电力供应合同。 谷歌将承担1600 MW可再生能源项目的所有成本，并承担480 MW能源存储的所有成本。",
+          "url": "https://wallstreetcn.com/livenews/3071936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         }
       ]
     }
