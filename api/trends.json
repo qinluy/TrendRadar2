@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T05:42:42.626430+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-03-18T06:38:02.910786+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时38分]"
         },
         {
           "title": "特朗普称将接管古巴",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时42分]"
+          "appearance_count": 6,
+          "time_info": "[02时03分 ~ 06时38分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时38分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时38分]"
         },
         {
           "title": "格雷厄姆警告美国盟友：特朗普从未如此生气",
@@ -144,6 +144,41 @@
           "time_info": "[00时15分 ~ 04时43分]"
         },
         {
+          "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
+          "url": "https://wallstreetcn.com/articles/3767756",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 06时38分]"
+        },
+        {
+          "title": "特朗普称对北约很失望",
+          "url": "https://wallstreetcn.com/livenews/3071905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
+          "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
           "title": "特朗普谈反恐中心主任辞职：他走人是好事",
           "url": "https://flash.jin10.com/detail/20260318032156939800",
           "source": "金十数据",
@@ -153,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "美国总统特朗普重申过去两周美国在伊朗采取了一次“短暂行动”（excursion）。",
+          "url": "https://flash.jin10.com/detail/20260318055704570800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "特朗普：不再需要北约国家协助，也不需要日韩和澳大利亚的帮助",
@@ -166,26 +212,37 @@
           "time_info": "00时16分"
         },
         {
-          "title": "特朗普称对北约很失望",
-          "url": "https://wallstreetcn.com/livenews/3071905",
+          "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
+          "url": "https://wallstreetcn.com/livenews/3071928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时42分"
+          "time_info": "06时38分"
         },
         {
-          "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071902",
+          "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
+          "url": "https://wallstreetcn.com/livenews/3071927",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时42分"
+          "time_info": "06时38分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
+          "url": "https://flash.jin10.com/detail/20260318054846607800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "特朗普：北约不想参与对伊行动，但我们不再需要帮助了",
@@ -205,7 +262,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -278,8 +335,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时38分]"
         },
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -289,8 +346,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时38分]"
         },
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
@@ -301,8 +358,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时38分]"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
@@ -367,6 +424,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3071904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
           "url": "https://wallstreetcn.com/livenews/3071826",
           "source": "华尔街见闻-快讯",
@@ -376,17 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3071904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
         },
         {
           "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
@@ -406,7 +464,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -432,11 +490,12 @@
           "url": "https://flash.jin10.com/detail/20260318051816405800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时38分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
@@ -476,8 +535,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。",
+          "url": "https://wallstreetcn.com/livenews/3071936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
         {
           "title": "标普500指数初步收涨0.2%，能源板块涨1.1%，可选消费、电信、科技板块至少涨0.2%，保健板块跌0.9%。 纳斯达克100指数初步收涨0.5%，成分股中，西部数据初步收涨9.3%，希捷科技涨5.4%，Arm控股涨4.7%，美光涨4.2%，谷歌A涨1.6%表现靠前，迈威尔科技、霍尼韦尔、安进、FTNT、Atlassian、英特尔则至多跌3.6%。 IBM初步收涨2.7%，迪士尼、亚马逊、高盛涨超1%，领跑道指成分股，波音、霍尼韦尔、安进、Salesforce、强生则至少跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3071883",
