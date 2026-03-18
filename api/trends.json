@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T16:55:52.572336+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-03-18T18:02:30.228698+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时37分 ~ 16时55分]"
+          "appearance_count": 12,
+          "time_info": "[06时37分 ~ 18时02分]"
         },
         {
           "title": "特朗普称将接管古巴",
@@ -129,6 +129,19 @@
           "time_info": "[15时55分 ~ 16时55分]"
         },
         {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时00分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普称应考虑美国退出北约的可能性",
           "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
           "source": "澎湃新闻",
@@ -142,6 +155,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时32分 ~ 16时55分]"
+        },
+        {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
@@ -199,19 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时00分 ~ 16时55分]"
         },
         {
           "title": "美国总统特朗普夸赞美国股市表现。",
@@ -341,6 +352,29 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 18时02分]"
+        },
+        {
           "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
           "url": "https://wallstreetcn.com/livenews/3071927",
           "source": "华尔街见闻-快讯",
@@ -351,6 +385,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "特朗普称对北约很失望",
@@ -433,17 +478,6 @@
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
           "url": "https://flash.jin10.com/detail/20260318151145483800",
           "source": "金十数据",
           "ranks": [
@@ -452,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普：不担心伊朗成为“另一个越南”",
@@ -556,7 +601,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -618,6 +663,17 @@
           "time_info": "[04时43分 ~ 05时42分]"
         },
         {
+          "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3072307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美光科技股价上涨3.34%，报456.57美元/股，创盘中历史新高，（盘中）市值报5139亿美元。 美光科技成为本轮美股科技股调整以来，首个创下历史新高的主要科技股票。",
           "url": "https://wallstreetcn.com/livenews/3071778",
           "source": "华尔街见闻-快讯",
@@ -674,11 +730,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 16时55分]"
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 18时02分]"
         },
         {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
@@ -851,11 +908,12 @@
           "ranks": [
             3,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 16时55分]"
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 18时02分]"
         }
       ]
     }
