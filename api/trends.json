@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T19:39:07.145386+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-03-19T21:12:59.884750+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,29 @@
           "time_info": "[01时13分 ~ 06时37分]"
         },
         {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时52分 ~ 21时12分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时52分 ~ 21时12分]"
+        },
+        {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
           "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
           "source": "凤凰网",
@@ -50,28 +73,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时13分 ~ 14时02分]"
-        },
-        {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 19时39分]"
-        },
-        {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 19时39分]"
         },
         {
           "title": "特朗普称考虑退出北约，从经济角度看，如果美国真退出了世界会发生哪些变化？",
@@ -136,6 +137,18 @@
           "time_info": "[12时57分 ~ 15时50分]"
         },
         {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 21时12分]"
+        },
+        {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
           "url": "https://www.cls.cn/detail/2316670",
           "source": "财联社热门",
@@ -157,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
-        },
-        {
-          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
-          "url": "https://wallstreetcn.com/articles/3767896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时50分 ~ 19时39分]"
         },
         {
           "title": "特朗普：美国和卡塔尔对以色列袭击伊朗气田毫不知情",
@@ -214,6 +216,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时46分 ~ 21时12分]"
+        },
+        {
           "title": "美国总统特朗普：我不想授权这种程度的暴力和破坏。",
           "url": "https://flash.jin10.com/detail/20260319101033459800",
           "source": "金十数据",
@@ -247,17 +260,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
-          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 19时39分]"
         },
         {
           "title": "美媒：特朗普希望以色列暂缓进一步打击伊朗能源设施",
@@ -478,7 +480,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -519,7 +521,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -543,6 +545,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3073359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -617,6 +630,17 @@
           "time_info": "[04时41分 ~ 06时37分]"
         },
         {
+          "title": "美股期货跌幅扩大，标普500指数期货跌幅扩大至0.7%，纳指期货跌0.8%，均至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3073349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
           "url": "https://wallstreetcn.com/livenews/3072726",
           "source": "华尔街见闻-快讯",
@@ -626,6 +650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2318602",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -672,6 +707,17 @@
           "time_info": "04时41分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-19）",
+          "url": "https://flash.jin10.com/detail/20260319204334933800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美股收盘：三大股指在美联储议息日均跌超1%",
           "url": "https://flash.jin10.com/detail/20260319040154086800",
           "source": "金十数据",
@@ -689,7 +735,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -768,6 +814,38 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18,
+            23,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 15时50分]"
+        },
+        {
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -796,23 +874,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
+          "title": "OpenAI将收购初创公司Astral，进一步拓展其在编程领域的布局。",
+          "url": "https://wallstreetcn.com/livenews/3073358",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            18,
-            23,
-            24,
-            29
+            3
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 15时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         }
       ]
     }
