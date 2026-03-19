@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T17:52:28.698468+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-03-19T18:47:10.615305+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -103,6 +103,17 @@
           "time_info": "[01时13分 ~ 10时34分]"
         },
         {
+          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
+          "url": "https://news.ifeng.com/c/8rckc3J46aj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时47分]"
+        },
+        {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
           "url": "https://news.ifeng.com/c/8rcHthVvS8A",
           "source": "凤凰网",
@@ -112,6 +123,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时57分 ~ 15时50分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时47分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -159,17 +181,6 @@
           "time_info": "10时34分"
         },
         {
-          "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
-          "url": "https://news.ifeng.com/c/8rckc3J46aj",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
           "title": "法国总统马克龙：刚刚与卡塔尔埃米尔和特朗普通话，讨论了当天针对伊朗和卡塔尔天然气生产设施的袭击事件。各方的共同利益在于，应立即实施暂停针对民用基础设施（尤其是能源和供水基础设施）的打击行动。",
           "url": "https://flash.jin10.com/detail/20260319070337867800",
           "source": "金十数据",
@@ -209,18 +220,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -262,6 +262,17 @@
           "time_info": "[10时33分 ~ 14时02分]"
         },
         {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时47分]"
+        },
+        {
           "title": "高市早苗访美与特朗普如何“面对面”？",
           "url": "https://news.ifeng.com/c/8rcWUf1wYvu",
           "source": "凤凰网",
@@ -271,6 +282,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时50分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         },
         {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
@@ -283,17 +305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时34分]"
-        },
-        {
-          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
-          "url": "https://wallstreetcn.com/articles/3767896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 17时52分]"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定攻击卡塔尔，美国将大规模炸毁整个南帕尔斯天然气田。",
@@ -313,7 +324,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -564,7 +575,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
