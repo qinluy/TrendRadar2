@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T17:37:30.665559+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-03-22T18:32:17.495150+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 17时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 18时32分]"
         },
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时34分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[10时34分 ~ 18时32分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -102,6 +102,18 @@
           "time_info": "[00时35分 ~ 07时29分]"
         },
         {
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时55分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
           "url": "https://www.cls.cn/detail/2320222",
           "source": "财联社热门",
@@ -130,16 +142,15 @@
           "time_info": "[10时34分 ~ 17时37分]"
         },
         {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
+          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时55分 ~ 17时37分]"
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "美媒：特朗普团队正在为可能的伊朗和平谈判制定策略",
@@ -192,17 +203,6 @@
           "time_info": "[10时34分 ~ 15时43分]"
         },
         {
-          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
-          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
           "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
           "url": "https://news.ifeng.com/c/8rhPSWAl42N",
           "source": "凤凰网",
@@ -210,8 +210,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时58分 ~ 17时37分]"
+          "appearance_count": 5,
+          "time_info": "[14时58分 ~ 18时32分]"
+        },
+        {
+          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
+          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时58分 ~ 18时32分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -225,17 +236,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时34分 ~ 13时57分]"
-        },
-        {
-          "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
-          "url": "https://news.ifeng.com/c/8rhITNvbPgx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时58分 ~ 17时37分]"
         },
         {
           "title": "美国研究集团（ARG）最新民调显示，特朗普支持率创新低，不支持率高达63%，支持率仅为34%。",
@@ -273,13 +273,24 @@
           "time_info": "[10时34分 ~ 12时55分]"
         },
         {
+          "title": "周末要闻汇总：特朗普考虑逐步降级对伊朗的军事行动；宇树IPO申请获受理",
+          "url": "https://www.cls.cn/detail/2320568",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "英国内阁大臣里德：（在被问及英国对美国总统特朗普48小时伊朗最后通牒的立场时）美国总统特朗普只是在代表他自己发言。",
           "url": "https://flash.jin10.com/detail/20260322164923102800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -293,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "若特朗普兑现威胁 伊朗天然气发电厂恐遭袭击",
+          "url": "https://flash.jin10.com/detail/20260322173327101800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡 威胁摧毁发电厂",
@@ -342,8 +364,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 17时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 18时32分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
