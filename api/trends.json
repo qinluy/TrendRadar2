@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T10:35:15.235272+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-03-23T13:07:13.601507+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 10时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 13时07分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
@@ -129,6 +129,18 @@
           "time_info": "[00时35分 ~ 07时33分]"
         },
         {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时07分]"
+        },
+        {
           "title": "美以伊战争丨特朗普威胁将伊朗抹去，伊总统回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -140,15 +152,15 @@
           "time_info": "[02时42分 ~ 04时33分]"
         },
         {
-          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
+          "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
+          "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "time_info": "[13时06分 ~ 13时07分]"
         },
         {
           "title": "特朗普最后通牒还剩24小时，贝森特表态“先升级再缓和”，亚洲股市重挫、黄金一度跌超3%",
@@ -250,6 +262,28 @@
           "time_info": "[00时36分 ~ 04时33分]"
         },
         {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时07分]"
+        },
+        {
+          "title": "美议员要求特朗普政府官员国会作证",
+          "url": "https://news.ifeng.com/c/8riyKTIjsUK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 13时07分]"
+        },
+        {
           "title": "特朗普逐步降级言论会否引发市场反弹？分析师警告：别轻易当真",
           "url": "https://www.cls.cn/detail/2320461",
           "source": "财联社热门",
@@ -259,6 +293,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 13时07分]"
         },
         {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
@@ -271,17 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "特朗普借电视短剧嘲讽英国首相",
@@ -334,7 +368,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
@@ -375,7 +409,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -401,11 +435,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时07分]"
         }
       ]
     }
