@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T05:04:37.417283+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-03-27T05:35:57.173354+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3768393",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -26,30 +27,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
-          "title": "特朗普再推迟对伊能源设施打击 4月6日成下个焦点",
-          "url": "https://flash.jin10.com/detail/20260327043248465800",
-          "source": "金十数据",
+          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
+          "source": "澎湃新闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "特朗普将打击伊能源设施时间推后10天 金油暴动",
-          "url": "https://flash.jin10.com/detail/20260327042436894800",
-          "source": "金十数据",
-          "ranks": [
+            9,
+            6,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
           "title": "特朗普再次就停战谈判威胁伊朗",
@@ -63,28 +55,18 @@
           "time_info": "03时13分"
         },
         {
-          "title": "国际油价急剧跳水，特朗普称对伊朗能源设施空袭再推迟10天",
-          "url": "https://wallstreetcn.com/livenews/3077681",
-          "source": "华尔街见闻-快讯",
+          "title": "中方回应特朗普称5月中旬访华",
+          "url": "https://www.toutiao.com/trending/7621462030418972210/",
+          "source": "今日头条",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
-          "source": "澎湃新闻",
-          "ranks": [
+            21,
             9,
-            6,
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -94,8 +76,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
           "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
@@ -106,21 +88,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
-          "title": "中方回应特朗普称5月中旬访华",
-          "url": "https://www.toutiao.com/trending/7621462030418972210/",
-          "source": "今日头条",
+          "title": "特朗普再推迟对伊能源设施打击 4月6日成下个焦点",
+          "url": "https://flash.jin10.com/detail/20260327043248465800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            9,
-            7
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
+        },
+        {
+          "title": "特朗普将打击伊能源设施时间推后10天 金油暴动",
+          "url": "https://flash.jin10.com/detail/20260327042436894800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
+        },
+        {
+          "title": "国际油价急剧跳水，特朗普称对伊朗能源设施空袭再推迟10天",
+          "url": "https://wallstreetcn.com/livenews/3077681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
         },
         {
           "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
@@ -131,8 +136,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
           "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
@@ -142,8 +147,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
           "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
@@ -154,74 +159,92 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
-        },
-        {
-          "title": "美国总统特朗普：新截止日期是应伊朗政府的要求。",
-          "url": "https://flash.jin10.com/detail/20260327041833433800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "特朗普称再推迟10天打击伊朗发电厂",
-          "url": "https://wallstreetcn.com/livenews/3077680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "特朗普再度宣布推迟打击伊朗能源设施，油价短线大跌，金价大涨。",
-          "url": "https://flash.jin10.com/detail/20260327041512908800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "美指涨穿100关口，特朗普延长对伊朗谈判的最后期限至4月6日",
-          "url": "https://wallstreetcn.com/livenews/3077679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
           "url": "https://wallstreetcn.com/articles/3768496",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
+        },
+        {
+          "title": "美国总统特朗普：新截止日期是应伊朗政府的要求。",
+          "url": "https://flash.jin10.com/detail/20260327041833433800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
+        },
+        {
+          "title": "特朗普称再推迟10天打击伊朗发电厂",
+          "url": "https://wallstreetcn.com/livenews/3077680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
+        },
+        {
+          "title": "特朗普再度宣布推迟打击伊朗能源设施，油价短线大跌，金价大涨。",
+          "url": "https://flash.jin10.com/detail/20260327041512908800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
+        },
+        {
+          "title": "美指涨穿100关口，特朗普延长对伊朗谈判的最后期限至4月6日",
+          "url": "https://wallstreetcn.com/livenews/3077679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
         },
         {
           "title": "美国总统特朗普：谈判正在进行中，进展非常顺利。",
           "url": "https://flash.jin10.com/detail/20260327041316633800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
+        },
+        {
+          "title": "美国总统特朗普：我将对伊朗能源设施的摧毁期限暂停10天，至2026年4月6日星期一美东时间晚上8点。",
+          "url": "https://flash.jin10.com/detail/20260327041259522800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
         },
         {
           "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
@@ -233,17 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "美国总统特朗普：我将对伊朗能源设施的摧毁期限暂停10天，至2026年4月6日星期一美东时间晚上8点。",
-          "url": "https://flash.jin10.com/detail/20260327041259522800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
         },
         {
           "title": "特朗普：如果美伊达成“正确的协议”，霍尔木兹海峡将会开放",
@@ -336,8 +348,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -348,8 +360,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -359,8 +371,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
+        },
+        {
+          "title": "半导体ETF收跌4.6%，领跌美股行业ETF，能源业ETF则涨约1.6%",
+          "url": "https://wallstreetcn.com/livenews/3077676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
+        },
+        {
+          "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260327040606823800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
         },
         {
           "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股盘中）",
@@ -385,35 +421,13 @@
           "time_info": "01时07分"
         },
         {
-          "title": "半导体ETF收跌4.6%，领跌美股行业ETF，能源业ETF则涨约1.6%",
-          "url": "https://wallstreetcn.com/livenews/3077676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260327040606823800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260327040601213800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -424,7 +438,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -481,6 +495,59 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时35分]"
+        },
+        {
+          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3077691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
+          "url": "https://flash.jin10.com/detail/20260327045344271800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "据 The Information：OpenAI广告试点的年化收入突破1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260327045343835800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -494,6 +561,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "周四（3月26日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至99.980点，整体持续走高，北京时间19:11-20:02涨幅突出。 彭博美元指数涨0.36%，刷新日高至1215.82点。 美元兑日元涨0.22%，刷新日高至159.83日元；欧元兑日元跌0.08%，英镑兑日元跌0.33%。",
+          "url": "https://wallstreetcn.com/livenews/3077665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时35分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，刷新日低。 道指跌266点，跌幅0.6%，纳指跌1.3%。 现货黄金日内跌幅达2.5%，报4392.36美元/盎司。",
@@ -513,18 +592,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "周四（3月26日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至99.980点，整体持续走高，北京时间19:11-20:02涨幅突出。 彭博美元指数涨0.36%，刷新日高至1215.82点。 美元兑日元涨0.22%，刷新日高至159.83日元；欧元兑日元跌0.08%，英镑兑日元跌0.33%。",
-          "url": "https://wallstreetcn.com/livenews/3077665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         }
@@ -542,27 +610,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            11,
-            12
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时07分 ~ 05时04分]"
+          "time_info": "[01时07分 ~ 05时35分]"
         }
       ]
     }
