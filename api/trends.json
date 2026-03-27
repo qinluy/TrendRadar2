@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T15:14:05.161365+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-03-27T16:58:47.353912+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时04分 ~ 15时14分]"
+          "appearance_count": 12,
+          "time_info": "[05时04分 ~ 16时58分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -86,6 +86,19 @@
           "time_info": "[10时40分 ~ 13时11分]"
         },
         {
+          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
+          "url": "https://www.cls.cn/detail/2326560",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 16时58分]"
+        },
+        {
           "title": "中方回应特朗普称5月中旬访华",
           "url": "https://www.toutiao.com/trending/7621462030418972210/",
           "source": "今日头条",
@@ -98,6 +111,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 07时37分]"
+        },
+        {
+          "title": "美以伊战争丨英首相回击特朗普：我不会任人摆布",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时58分]"
         },
         {
           "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
@@ -113,6 +137,44 @@
           "time_info": "[01时07分 ~ 10时41分]"
         },
         {
+          "title": "一直赢的特朗普，又给自己续了10天",
+          "url": "https://news.ifeng.com/c/8rpKy15FPLN",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时40分 ~ 16时58分]"
+        },
+        {
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时40分 ~ 16时58分]"
+        },
+        {
+          "title": "特朗普签名将出现在美国纸币上 苹果据传拟开放Siri接入更多模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2326334",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时40分 ~ 16时58分]"
+        },
+        {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
           "url": "https://www.cls.cn/detail/2325824",
           "source": "财联社热门",
@@ -123,17 +185,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 07时37分]"
-        },
-        {
-          "title": "美以伊战争丨英首相回击特朗普：我不会任人摆布",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
@@ -157,54 +208,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时07分 ~ 07时37分]"
-        },
-        {
-          "title": "一直赢的特朗普，又给自己续了10天",
-          "url": "https://news.ifeng.com/c/8rpKy15FPLN",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 15时14分]"
-        },
-        {
-          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
-          "url": "https://www.cls.cn/detail/2326560",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 15时14分]"
-        },
-        {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 15时14分]"
-        },
-        {
-          "title": "特朗普签名将出现在美国纸币上 苹果据传拟开放Siri接入更多模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2326334",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 15时14分]"
         },
         {
           "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
@@ -259,8 +262,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 16时58分]"
+        },
+        {
+          "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
+          "url": "https://www.cls.cn/detail/2326367",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 16时58分]"
         },
         {
           "title": "特朗普再推迟对伊能源设施打击 4月6日成下个焦点",
@@ -299,15 +314,27 @@
           "time_info": "[05时04分 ~ 05时35分]"
         },
         {
-          "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
-          "url": "https://www.cls.cn/detail/2326367",
-          "source": "财联社热门",
+          "title": "打破165年传统 美钞将印特朗普签名",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
+          "source": "百度热搜",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时58分]"
+        },
+        {
+          "title": "特朗普再次就停战谈判威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时58分]"
         },
         {
           "title": "美国总统特朗普：新截止日期是应伊朗政府的要求。",
@@ -382,17 +409,6 @@
           "time_info": "[05时04分 ~ 05时35分]"
         },
         {
-          "title": "打破165年传统 美钞将印特朗普签名",
-          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
-        },
-        {
           "title": "特朗普揭晓所谓伊朗“大礼”",
           "url": "https://www.toutiao.com/trending/7621688276944093203/",
           "source": "今日头条",
@@ -402,17 +418,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时10分 ~ 13时11分]"
-        },
-        {
-          "title": "特朗普再次就停战谈判威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "特朗普将签行政令向机场安检人员发薪",
@@ -457,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "特朗普延长伊朗谈判时间，亚太股市反弹、韩股一度抹去4%跌幅，现货金银走高",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "美国参议院民主党成员Warren就2008年金融危机期间的行为质询总统特朗普的美联储主席提名人凯文·沃什。",
@@ -685,6 +701,18 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时40分 ~ 16时58分]"
+        },
+        {
           "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
           "url": "https://www.cls.cn/detail/2326270",
           "source": "财联社热门",
@@ -708,18 +736,6 @@
           "time_info": "[10时40分 ~ 15时14分]"
         },
         {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 15时14分]"
-        },
-        {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
           "url": "https://wallstreetcn.com/articles/3768430",
           "source": "华尔街见闻",
@@ -737,11 +753,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时40分 ~ 16时58分]"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -882,7 +899,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -894,8 +911,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时40分 ~ 16时58分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -914,33 +931,47 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 16时58分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 16时58分]"
         },
         {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
           "url": "https://www.cls.cn/detail/2326356",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时58分]"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
