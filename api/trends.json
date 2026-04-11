@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T21:06:07.115928+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-04-11T22:39:45.128748+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 52,
       "titles": [
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 21时06分]"
+          "appearance_count": 12,
+          "time_info": "[10时33分 ~ 22时39分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 21时06分]"
+          "appearance_count": 12,
+          "time_info": "[10时33分 ~ 22时39分]"
         },
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -70,8 +70,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时39分 ~ 21时06分]"
+          "appearance_count": 13,
+          "time_info": "[07时39分 ~ 22时39分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -86,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时39分 ~ 21时06分]"
+          "appearance_count": 13,
+          "time_info": "[07时39分 ~ 22时39分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -133,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -338,6 +349,28 @@
           "time_info": "[07时39分 ~ 10时33分]"
         },
         {
+          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
+          "url": "https://flash.jin10.com/detail/20260411214044894800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
+          "url": "https://news.ifeng.com/c/8sF8BSwcVz7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
           "url": "https://flash.jin10.com/detail/20260411002832276800",
           "source": "金十数据",
@@ -360,6 +393,28 @@
           "time_info": "06时42分"
         },
         {
+          "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
+          "url": "https://wallstreetcn.com/livenews/3086245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "特朗普称美方开始清理霍尔木兹海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E6%96%B9%E5%BC%80%E5%A7%8B%E6%B8%85%E7%90%86%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3086016",
           "source": "华尔街见闻-快讯",
@@ -369,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "特朗普：美国绝不接受化肥行业的价格欺诈",
+          "url": "https://flash.jin10.com/detail/20260411210841996800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "特朗普祝贺“阿耳忒弥斯2号”成功溅落",
@@ -388,9 +454,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "巴基斯坦消息人士：此次三方会谈在美国总统特使威特科夫、美国副总统万斯、特朗普女婿库什纳与伊朗议会议长卡利巴夫、伊朗外长阿拉格齐以及巴基斯坦陆军参谋长之间面对面举行。",
+          "url": "https://flash.jin10.com/detail/20260411210744513800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。",
@@ -410,9 +487,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "特朗普：正在“清理”霍尔木兹海峡海峡 伊朗布雷艇已全部沉没",
+          "url": "https://flash.jin10.com/detail/20260411210428309800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美国总统特朗普：美国准备提振匈牙利经济。",
@@ -424,6 +512,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
+          "url": "https://wallstreetcn.com/livenews/3086237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的28艘布雷快艇全部沉入海底。",
+          "url": "https://flash.jin10.com/detail/20260411210112404800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "报道：特朗普准备在没能与伊朗达成协议的情况下采取军事行动",
@@ -459,6 +569,28 @@
           "time_info": "00时58分"
         },
         {
+          "title": "美国总统特朗普：我们现在正在进行清理霍尔木兹海峡的行动。",
+          "url": "https://flash.jin10.com/detail/20260411210041803800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "特朗普称美方“开始清理霍尔木兹海峡”",
+          "url": "https://wallstreetcn.com/livenews/3086234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "据纽约邮报：若与伊朗和平谈判失败，特朗普准备动用武力。",
           "url": "https://flash.jin10.com/detail/20260410233248888800",
           "source": "金十数据",
@@ -483,136 +615,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时39分 ~ 21时06分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041025716800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 07时39分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041023502800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 07时39分]"
-        },
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 21时06分]"
-        },
-        {
-          "title": "美股巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 18时39分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
-          "url": "https://flash.jin10.com/detail/20260411040442253800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 07时39分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003357698800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时54分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003343083800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时54分]"
-        },
-        {
-          "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3086084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时42分]"
-        },
-        {
-          "title": "标普500指数收跌7.77点，跌幅0.11%，报6816.89点。 道琼斯工业平均指数收跌269.23点，跌幅0.56%，报47916.57点。 纳斯达克综合指数（纳指）收涨80.477点，涨幅0.35，报22902.894点。 纳斯达克100指数收涨34.251点，涨幅0.14%，报25116.338点。 费城半导体指数收涨2.31%，报8889.828点，连续三个交易日创收盘历史新高。 高盛、摩根大通、花旗集团等下周拉开美股财报季序幕之前，费城证交所KBW银行指数收跌0.69%，报165.34点。 道琼斯KBW地区银行指数收跌1.21%，报13.61点。",
-          "url": "https://wallstreetcn.com/livenews/3086072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -623,11 +627,12 @@
             12,
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时05分 ~ 21时06分]"
+          "appearance_count": 10,
+          "time_info": "[14时05分 ~ 22时39分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -716,11 +721,151 @@
           "time_info": "[10时33分 ~ 12时58分]"
         },
         {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
           "url": "https://wallstreetcn.com/livenews/3086079",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时39分 ~ 22时39分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 07时39分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041023502800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 07时39分]"
+        },
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            7,
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 22时39分]"
+        },
+        {
+          "title": "美股巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 18时39分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时42分 ~ 07时39分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260411003357698800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时54分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260411003343083800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时58分 ~ 01时54分]"
+        },
+        {
+          "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3086084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
+          "title": "标普500指数收跌7.77点，跌幅0.11%，报6816.89点。 道琼斯工业平均指数收跌269.23点，跌幅0.56%，报47916.57点。 纳斯达克综合指数（纳指）收涨80.477点，涨幅0.35，报22902.894点。 纳斯达克100指数收涨34.251点，涨幅0.14%，报25116.338点。 费城半导体指数收涨2.31%，报8889.828点，连续三个交易日创收盘历史新高。 高盛、摩根大通、花旗集团等下周拉开美股财报季序幕之前，费城证交所KBW银行指数收跌0.69%，报165.34点。 道琼斯KBW地区银行指数收跌1.21%，报13.61点。",
+          "url": "https://wallstreetcn.com/livenews/3086072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
