@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T17:24:13.076091+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-04-14T19:07:28.886155+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -45,6 +45,19 @@
           "time_info": "[00时17分 ~ 07时48分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时48分 ~ 19时07分]"
+        },
+        {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
           "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
           "source": "凤凰网",
@@ -81,19 +94,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 10时50分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时48分 ~ 17时24分]"
         },
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -169,6 +169,20 @@
           "time_info": "[00时17分 ~ 07时48分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时50分 ~ 19时07分]"
+        },
+        {
           "title": "中方回应特朗普重申将封锁伊朗港口",
           "url": "https://www.toutiao.com/trending/7628108023306718761/",
           "source": "今日头条",
@@ -194,19 +208,6 @@
           "time_info": "[17时23分 ~ 17时24分]"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 17时24分]"
-        },
-        {
           "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -216,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "伊朗战争丨特朗普威胁向伊朗供武者加税，中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "意大利总理梅洛尼：特朗普关于教皇的言论不可接受。",
@@ -242,6 +254,33 @@
           "time_info": "[00时17分 ~ 06时48分]"
         },
         {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 19时07分]"
+        },
+        {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 19时07分]"
+        },
+        {
           "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2026779173369246174",
           "source": "知乎",
@@ -266,32 +305,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时09分 ~ 07时48分]"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 17时24分]"
-        },
-        {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 17时24分]"
         },
         {
           "title": "特朗普发了一张图，让西方大吃一惊",
@@ -365,6 +378,17 @@
           "time_info": "[05时54分 ~ 06时48分]"
         },
         {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时07分]"
+        },
+        {
           "title": "美英再现分歧！斯塔默：不支持特朗普封锁霍尔木兹海峡",
           "url": "https://www.cls.cn/detail/2342601",
           "source": "财联社热门",
@@ -386,17 +410,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时50分 ~ 13时28分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -668,7 +681,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：标普纳指均涨超1% 高速互联、存储、CPU牛股领涨",
@@ -716,6 +729,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 06时48分]"
+        },
+        {
+          "title": "摩根大通美股盘前跌超3%，此前公布了一季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3087655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "摩根大通一季度经调整后营收505.4亿美元，预估492.6亿美元。 一季度每股收益5.94美元。 第一季度FICC销售和交易收入达70.8亿美元， 预估66.5亿美元。 第一季度股票销售与交易业务收入44.8 亿美元，预估43.1 亿美元。 摩根大通美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3087651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "富国银行第一季度营收为214.5亿美元，预期217.6亿美元。 第一季度每股收益1.6美元。 第一季度净利息收入121亿美元，预期122.7亿美元。 富国银行美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3087648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "周一（4月13日），美股行业ETF普遍收涨，网络股指数ETF收涨2.38%，科技行业ETF涨2.10%，全球科技股指数ETF涨1.90%，金融业ETF涨1.71%，半导体ETF涨1.48%，银行业ETF涨0.83%，区域银行ETF涨0.65%，日常消费品ETF、公用事业ETF至多跌1.21%。",
@@ -771,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "强生第一季度销售额240.6亿美元，预估236.6亿美元。 第一季度调整后每股收益2.70美元，预估2.69美元。 强生预计全年销售额1,003亿美元至1,013亿美元，市场预估1,006.3亿美元。 强生预计全年调整后每股收益11.45美元至11.65美元。 强生美股盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3087638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "美股股指期货集体拉升，纳指期货涨约0.3%，现货黄金突破4790美元/盎司，现货白银日内涨3%，现报77.84美元/盎司。美元指数短线走低，日内跌0.25%。据消息人士称，美伊代表团本周晚些时候将在巴基斯坦谈判。",
