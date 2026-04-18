@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T17:53:02.096468+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-04-18T18:45:18.020793+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时51分 ~ 17时53分]"
+          "appearance_count": 12,
+          "time_info": "[04时51分 ~ 18时45分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 17时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 18时45分]"
         },
         {
           "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
@@ -79,8 +79,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 17时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普：伊朗不会拥有核武器",
+          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 18时45分]"
         },
         {
           "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
@@ -123,15 +134,16 @@
           "time_info": "[10时41分 ~ 16时56分]"
         },
         {
-          "title": "特朗普：伊朗不会拥有核武器",
-          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
-          "source": "凤凰网",
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
           "ranks": [
+            10,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 18时45分]"
         },
         {
           "title": "特朗普认为美伊之间显著分歧不多",
@@ -145,18 +157,6 @@
           "time_info": "[06时43分 ~ 07时43分]"
         },
         {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 17时53分]"
-        },
-        {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
           "url": "https://wallstreetcn.com/articles/3770302",
           "source": "华尔街见闻",
@@ -166,8 +166,45 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 17时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普：以色列，适可而止",
+          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 18时45分]"
+        },
+        {
+          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
+          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 18时45分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
@@ -191,43 +228,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 03时06分]"
-        },
-        {
-          "title": "特朗普：以色列，适可而止",
-          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 17时53分]"
-        },
-        {
-          "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
-          "url": "https://news.ifeng.com/c/8sQQLEAQZYu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 17时53分]"
         },
         {
           "title": "伊朗：特朗普7项声明“均不属实”",
@@ -273,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
+          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时14分 ~ 18时45分]"
         },
         {
           "title": "美国白宫：美国总统特朗普将于周六上午9点（北京时间21:00）签署一项行政命令。",
@@ -373,17 +384,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时43分 ~ 10时41分]"
-        },
-        {
-          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
-          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 17时53分]"
         },
         {
           "title": "美媒：特朗普称以色列“禁止”轰炸黎巴嫩 以色列寻求澄清",
@@ -955,19 +955,6 @@
           "time_info": "[00时08分 ~ 06时43分]"
         },
         {
-          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2347815",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 15时14分]"
-        },
-        {
           "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
@@ -979,8 +966,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时42分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[07时42分 ~ 18时45分]"
+        },
+        {
+          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2347815",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 15时14分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -1154,8 +1154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时10分 ~ 17时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 18时45分]"
         }
       ]
     },
