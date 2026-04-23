@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T17:55:05.392545+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-04-23T19:13:56.014838+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时19分 ~ 17时55分]"
+          "appearance_count": 11,
+          "time_info": "[03时19分 ~ 19时13分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -44,6 +44,42 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 07时54分]"
+        },
+        {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时34分 ~ 19时13分]"
+        },
+        {
+          "title": "伊朗：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 19时13分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时13分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
@@ -72,42 +108,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时06分 ~ 06时58分]"
-        },
-        {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时34分 ~ 17时55分]"
-        },
-        {
-          "title": "伊朗：特朗普又说谎了",
-          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 17时55分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时55分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -209,6 +209,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时34分 ~ 19时13分]"
+        },
+        {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
           "url": "https://news.ifeng.com/c/8sXS8jC94HP",
           "source": "凤凰网",
@@ -242,17 +253,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时53分 ~ 16时02分]"
-        },
-        {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时34分 ~ 17时55分]"
         },
         {
           "title": "五角大楼：美国海军部长John Phelan退出总统特朗普的政府，将由副部长Hung Cao接替。",
@@ -296,11 +296,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
           "source": "澎湃新闻",
           "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时13分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
             17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时55分]"
+          "time_info": "[17时54分 ~ 19时13分]"
         },
         {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
@@ -337,17 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时54分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -518,7 +520,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -739,6 +741,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "超微电脑美股盘前跌超12%。",
+          "url": "https://wallstreetcn.com/livenews/3093257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
           "url": "https://flash.jin10.com/detail/20260423060230487800",
           "source": "金十数据",
@@ -750,13 +763,24 @@
           "time_info": "06时58分"
         },
         {
+          "title": "洛克希德马丁一季度净销售额180.2亿美元，预估182.4亿美元。 第一季度每股收益为6.44 美元，而去年同期为7.28 美元。 第一季度运营利润20.6亿美元，预估22.6亿美元。 洛克希德马丁仍预计全年每股收益29.35至30.25美元，市场预估29.82美元。 洛克希德马丁仍预计全年净销售额775亿至800亿美元，市场预估790.9亿美元。 洛克希德马丁仍预计全年自由现金流为65亿至68亿美元，市场预估66.7亿美元。 洛克希德马丁仍预计全年业务运营利润为84.3亿至86.8亿美元。 洛克希德马丁美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3093251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "好未来第四季度净营收8.024亿美元，预估7.79亿美元。 第四季度调整后每ADS收益 0.45美元，预估0.11美元。 第四季度毛利率53.2％，预估55.5％。 好未来美股盘前微涨。",
           "url": "https://wallstreetcn.com/livenews/3093195",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
