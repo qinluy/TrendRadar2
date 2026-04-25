@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T17:58:59.759523+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-04-25T18:55:30.218601+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -54,18 +54,6 @@
           "time_info": "[00时06分 ~ 07时43分]"
         },
         {
-          "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 05时52分]"
-        },
-        {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
           "url": "https://wallstreetcn.com/articles/3770826",
           "source": "华尔街见闻",
@@ -76,8 +64,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时42分 ~ 17时58分]"
+          "appearance_count": 8,
+          "time_info": "[07时42分 ~ 18时55分]"
+        },
+        {
+          "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时06分 ~ 05时52分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -120,6 +120,17 @@
           "time_info": "[03时56分 ~ 07时43分]"
         },
         {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 18时55分]"
+        },
+        {
           "title": "欧洲真的怕特朗普吗",
           "url": "https://www.toutiao.com/trending/7632202129738235913/",
           "source": "今日头条",
@@ -159,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
-        },
-        {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 17时58分]"
         },
         {
           "title": "解析特朗普与教皇冲突",
@@ -314,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "特朗普最新不满意率公布",
+          "url": "https://www.toutiao.com/trending/7632256719716122665/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "卡塔尔埃米尔告诉美国总统特朗普，多哈将继续协调以支持巴基斯坦的调解努力。",
@@ -501,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "特朗普政府持有的英特尔股份价值飙升300%",
@@ -710,6 +732,18 @@
           "time_info": "[00时06分 ~ 06时43分]"
         },
         {
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 18时55分]"
+        },
+        {
           "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
           "url": "https://www.zhihu.com/question/2031152992817243775",
           "source": "知乎",
@@ -723,16 +757,18 @@
           "time_info": "[13时15分 ~ 17时58分]"
         },
         {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            3
+            1,
+            8,
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 17时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 18时55分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -759,20 +795,6 @@
           "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "DeepSeek如何适配国产芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            8,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 17时58分]"
-        },
-        {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
           "url": "https://www.toutiao.com/trending/7632324048923397668/",
           "source": "今日头条",
@@ -796,6 +818,21 @@
           "time_info": "13时15分"
         },
         {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 18时55分]"
+        },
+        {
           "title": "DeepSeek V4初体验——读《三体》三部曲烧了54万token",
           "url": "https://wallstreetcn.com/articles/3770793",
           "source": "华尔街见闻",
@@ -807,20 +844,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时42分 ~ 13时15分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 17时58分]"
         },
         {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
@@ -835,6 +858,19 @@
           "time_info": "[07时42分 ~ 10时43分]"
         },
         {
+          "title": "百度智能云上线DeepSeek-V4",
+          "url": "https://flash.jin10.com/detail/20260425155339949800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时55分]"
+        },
+        {
           "title": "DeepSeek V4 发布",
           "url": "https://www.douyin.com/hot/2477208",
           "source": "抖音",
@@ -845,18 +881,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时06分 ~ 10时43分]"
-        },
-        {
-          "title": "百度智能云上线DeepSeek-V4",
-          "url": "https://flash.jin10.com/detail/20260425155339949800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时58分]"
         },
         {
           "title": "DeepSeekV4是怎么训练出来的",
@@ -909,18 +933,6 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 06时43分]"
-        },
-        {
           "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
           "url": "https://www.cls.cn/detail/2355589",
           "source": "财联社热门",
@@ -931,8 +943,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时42分 ~ 17时58分]"
+          "appearance_count": 10,
+          "time_info": "[06时42分 ~ 18时55分]"
+        },
+        {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时06分 ~ 06时43分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
@@ -1041,17 +1065,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "谷歌计划向Anthropic投资高达400亿美元",
-          "url": "https://flash.jin10.com/detail/20260424235901530800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
           "url": "https://wallstreetcn.com/articles/3770859",
           "source": "华尔街见闻",
@@ -1061,8 +1074,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 17时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 18时55分]"
+        },
+        {
+          "title": "谷歌计划向Anthropic投资高达400亿美元",
+          "url": "https://flash.jin10.com/detail/20260424235901530800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
         },
         {
           "title": "据日经新闻：竞标方将为软银美国数据中心项目选择客户。谷歌和微软将成为竞标方之一。",
@@ -1155,11 +1179,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时58分]"
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时55分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
@@ -1199,22 +1224,24 @@
             7,
             9,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时43分 ~ 17时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 18时55分]"
         },
         {
           "title": "凌晨3点，硅谷炸锅！Anthropic源码意外泄露，51万行代码揭露Claude惊天野心",
           "url": "https://wallstreetcn.com/articles/3770881",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时55分]"
         }
       ]
     },
