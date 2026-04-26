@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T22:50:25.643075+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-04-26T23:46:25.809781+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 128,
+      "match_count": 135,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 22时50分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 23时46分]"
         },
         {
           "title": "特朗普：枪手已被捕；枪击现场视频曝光",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 22时50分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 23时46分]"
         },
         {
           "title": "和平谈判未能重启！特朗普取消美方特使赴巴基斯坦行程",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时42分 ~ 22时50分]"
+          "appearance_count": 12,
+          "time_info": "[07时42分 ~ 23时46分]"
         },
         {
           "title": "特朗普取消美方代表赴巴，称“想谈致电即可”，伊方称“若美方立场缓和，未来几天可能举行第二轮谈判”",
@@ -57,8 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 22时50分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 23时46分]"
         },
         {
           "title": "美国白宫记者晚宴发生枪击事件，特朗普被紧急撤离，具体情况如何？",
@@ -72,6 +72,30 @@
           "time_info": "[11时20分 ~ 19时42分]"
         },
         {
+          "title": "枪声响起，万斯被特勤人员一把拽走，比特朗普先撤离",
+          "url": "https://v.ifeng.com/c/8sdaZ1eZgcX",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时17分 ~ 23时46分]"
+        },
+        {
+          "title": "高市早苗：得知特朗普总统安然无恙，我如释重负",
+          "url": "https://news.ifeng.com/c/8sdl8wGF36Y",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 23时46分]"
+        },
+        {
           "title": "白宫遭枪击,特朗普紧急撤离",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
           "source": "贴吧",
@@ -80,11 +104,12 @@
             2,
             6,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时20分 ~ 22时50分]"
+          "appearance_count": 11,
+          "time_info": "[11时20分 ~ 23时46分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -97,18 +122,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时49分 ~ 05时39分]"
-        },
-        {
-          "title": "枪声响起，万斯被特勤人员一把拽走，比特朗普先撤离",
-          "url": "https://v.ifeng.com/c/8sdaZ1eZgcX",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时17分 ~ 22时50分]"
         },
         {
           "title": "特朗普撤离白宫晚宴现场画面",
@@ -126,15 +139,18 @@
           "time_info": "[11时20分 ~ 21时14分]"
         },
         {
-          "title": "高市早苗：得知特朗普总统安然无恙，我如释重负",
-          "url": "https://news.ifeng.com/c/8sdl8wGF36Y",
-          "source": "凤凰网",
+          "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056733",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            17,
+            14,
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 22时50分]"
+          "appearance_count": 9,
+          "time_info": "[14时09分 ~ 23时46分]"
         },
         {
           "title": "特朗普被伊朗气坏了",
@@ -161,18 +177,17 @@
           "time_info": "[14时09分 ~ 22时50分]"
         },
         {
-          "title": "现场视频丨突发安全事件，特朗普紧急撤离白宫记者晚宴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056733",
-          "source": "澎湃新闻",
+          "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
+          "url": "https://www.cls.cn/detail/2355864",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            14,
-            6,
-            1
+            10,
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时09分 ~ 22时50分]"
+          "time_info": "[16时17分 ~ 23时46分]"
         },
         {
           "title": "特朗普，已经压不住油价了",
@@ -202,19 +217,6 @@
           "time_info": "[11时20分 ~ 19时42分]"
         },
         {
-          "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
-          "url": "https://www.cls.cn/detail/2355864",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时17分 ~ 22时50分]"
-        },
-        {
           "title": "特朗普欲报复英国、西班牙，欧盟烦了：搞不懂，还要怎样？",
           "url": "https://news.ifeng.com/c/8scZYkdWAx4",
           "source": "凤凰网",
@@ -238,6 +240,19 @@
           "time_info": "[00时49分 ~ 07时42分]"
         },
         {
+          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
+          "url": "https://wallstreetcn.com/articles/3770913",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 23时46分]"
+        },
+        {
           "title": "白宫记者晚宴现场疑似枪响：特朗普被架起带离，鲁比奥蹲下躲避",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056849",
           "source": "澎湃新闻",
@@ -258,6 +273,22 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "特朗普否认枪击事件与伊朗战争有关",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19,
+            29,
+            10,
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 23时46分]"
         },
         {
           "title": "特朗普说晚宴前未接到威胁简报",
@@ -336,17 +367,16 @@
           "time_info": "[11时21分 ~ 19时42分]"
         },
         {
-          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
-          "url": "https://wallstreetcn.com/articles/3770913",
-          "source": "华尔街见闻",
+          "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
+          "url": "https://wallstreetcn.com/livenews/3094542",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
-            7
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 22时50分]"
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
         },
         {
           "title": "特朗普称有枪手已被捕",
@@ -364,30 +394,26 @@
           "time_info": "[11时20分 ~ 18时51分]"
         },
         {
-          "title": "特朗普否认枪击事件与伊朗战争有关",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：涉嫌白宫记者晚宴的枪手已经积累了相当长时间的仇恨。",
+          "url": "https://flash.jin10.com/detail/20260426231605662800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            19,
-            29,
-            10,
-            25
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 22时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
-          "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
-          "url": "https://wallstreetcn.com/livenews/3094542",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：白宫记者晚宴枪击案嫌疑人所撰宣言显示其为一名精神异常者。",
+          "url": "https://flash.jin10.com/detail/20260426231427379800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普因枪击案撤离时摔了一跤",
@@ -410,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "美国总统特朗普：现在每个人都知道新白宫舞厅是多么迫切需要。",
+          "url": "https://flash.jin10.com/detail/20260426231119265800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-26）",
@@ -451,6 +488,44 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时21分 ~ 18时51分]"
+        },
+        {
+          "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 23时46分]"
+        },
+        {
+          "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057032",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时41分 ~ 23时46分]"
+        },
+        {
+          "title": "美代理司法部长：白宫记者协会晚宴枪手目标可能包括特朗普",
+          "url": "https://wallstreetcn.com/livenews/3094518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 23时46分]"
         },
         {
           "title": "仍有谈判窗口？伊朗外长将再次访巴 特朗普：想谈直接打电话",
@@ -500,18 +575,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 16时17分]"
-        },
-        {
-          "title": "美代理司法部长：白宫记者协会晚宴枪手目标可能包括特朗普",
-          "url": "https://wallstreetcn.com/livenews/3094518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时50分]"
         },
         {
           "title": "美国总统特朗普：伊朗领导层内部正陷入严重的内讧与混乱之中。没人知道究竟谁说了算——就连他们自己也搞不清楚。",
@@ -739,19 +802,6 @@
           "time_info": "[04时43分 ~ 07时42分]"
         },
         {
-          "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 22时50分]"
-        },
-        {
           "title": "白宫记者晚宴传出“枪声”，特朗普被紧急疏散",
           "url": "https://wallstreetcn.com/livenews/3094424",
           "source": "华尔街见闻-快讯",
@@ -766,18 +816,6 @@
           "time_info": "[11时21分 ~ 17时56分]"
         },
         {
-          "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057032",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时41分 ~ 22时50分]"
-        },
-        {
           "title": "特朗普紧急撤离时摔倒",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB%E6%97%B6%E6%91%94%E5%80%92%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -788,6 +826,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时17分 ~ 18时51分]"
+        },
+        {
+          "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
+          "url": "https://wallstreetcn.com/livenews/3094509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 23时46分]"
         },
         {
           "title": "同地点遇袭：45年前里根45年后特朗普",
@@ -827,6 +878,29 @@
           "time_info": "[11时20分 ~ 14时09分]"
         },
         {
+          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 23时46分]"
+        },
+        {
+          "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057902",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普因安全原因离开白宫晚宴",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E5%AE%89%E5%85%A8%E5%8E%9F%E5%9B%A0%E7%A6%BB%E5%BC%80%E7%99%BD%E5%AE%AB%E6%99%9A%E5%AE%B4%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -860,18 +934,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 14时09分]"
-        },
-        {
-          "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
-          "url": "https://wallstreetcn.com/livenews/3094509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时50分]"
         },
         {
           "title": "美国总统特朗普：（在被问及枪击事件是否与伊朗冲突有关时表示）我不这么认为。",
@@ -1005,6 +1067,18 @@
           "time_info": "[03时50分 ~ 04时43分]"
         },
         {
+          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
+          "url": "https://wallstreetcn.com/livenews/3094530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普陷入新麻烦 底牌为何接连失效",
           "url": "https://www.toutiao.com/trending/7632221016841158682/",
           "source": "今日头条",
@@ -1015,6 +1089,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 16时17分]"
+        },
+        {
+          "title": "枪击发生时特朗普旁的华裔女记者是谁",
+          "url": "https://www.baidu.com/s?wd=%E6%9E%AA%E5%87%BB%E5%8F%91%E7%94%9F%E6%97%B6%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%81%E7%9A%84%E5%8D%8E%E8%A3%94%E5%A5%B3%E8%AE%B0%E8%80%85%E6%98%AF%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
         },
         {
           "title": "美国总统特朗普：我从未考虑过放弃停火。",
@@ -1029,6 +1115,18 @@
           "time_info": "[03时50分 ~ 04时43分]"
         },
         {
+          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：收到了检察官Pirro周五与美联储相关的声明。 相信美联储在大楼翻修工程中不存在任何不当行为。 司法部明确地告诉我，对美联储的刑事调查结束了。 我准备推动凯文·沃什的美联储主席提名人资格确认程序。 （关于沃什的提名资格确认程序重回正轨）的确如此。 预计沃什将在担任美联储主席保持独立性。 总统特朗普在美联储问题上提出要求，这并不让我感到眼红。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3094527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
+        },
+        {
           "title": "美国总统特朗普评论美联储调查：调查并未撤销。",
           "url": "https://flash.jin10.com/detail/20260426023520409800",
           "source": "金十数据",
@@ -1039,18 +1137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时43分]"
-        },
-        {
-          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时50分]"
         },
         {
           "title": "美国总统特朗普：伊朗又提交了一份内容更好的书面文件。",
@@ -1065,17 +1151,6 @@
           "time_info": "[03时50分 ~ 04时43分]"
         },
         {
-          "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057902",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时50分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗提交给我方的书面文件，本可以做得更好。",
           "url": "https://flash.jin10.com/detail/20260426023440393800",
           "source": "金十数据",
@@ -1086,6 +1161,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时43分]"
+        },
+        {
+          "title": "借口白宫记协晚宴安全事件，特朗普要求撤销针对宴会厅建设项目的诉讼",
+          "url": "https://wallstreetcn.com/livenews/3094523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
+        },
+        {
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
         },
         {
           "title": "美国总统特朗普：无论谁执掌伊朗，我都会与之谈判打交道。",
@@ -1111,6 +1210,18 @@
           "time_info": "[17时56分 ~ 18时51分]"
         },
         {
+          "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
+          "url": "https://wallstreetcn.com/livenews/3094520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普说他妻子躲得更快",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%96%E5%A6%BB%E5%AD%90%E8%BA%B2%E5%BE%97%E6%9B%B4%E5%BF%AB%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1134,6 +1245,17 @@
           "time_info": "14时09分"
         },
         {
+          "title": "美国总统特朗普：确保白宫记者晚宴的地点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260426230755839800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "枪击发生后 万斯比特朗普先撤引质疑",
           "url": "https://www.baidu.com/s?wd=%E6%9E%AA%E5%87%BB%E5%8F%91%E7%94%9F%E5%90%8E+%E4%B8%87%E6%96%AF%E6%AF%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E6%92%A4%E5%BC%95%E8%B4%A8%E7%96%91",
           "source": "百度热搜",
@@ -1145,6 +1267,17 @@
           "time_info": "17时56分"
         },
         {
+          "title": "美国总统特朗普：据称白宫记者晚宴的枪手被当场制止，他从未接近进入舞厅。",
+          "url": "https://flash.jin10.com/detail/20260426230752024800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "德国总理默茨：我对华盛顿发生的袭击事件表示谴责，并对特朗普总统、其夫人以及在场的所有人都安然无恙感到欣慰。",
           "url": "https://flash.jin10.com/detail/20260426184710492800",
           "source": "金十数据",
@@ -1154,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "特朗普回应为何总被暗杀",
+          "url": "https://www.douyin.com/hot/2479660",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普告诉Axios记者：“我们掌握了一切。我们不会去那儿闲聊无事。”",
@@ -1222,17 +1366,6 @@
           "time_info": "11时21分"
         },
         {
-          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
-          "url": "https://wallstreetcn.com/livenews/3094530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "美国总统特朗普：（嫌疑人）很可能是单独行动的，但我们会查清楚。",
           "url": "https://flash.jin10.com/detail/20260426104257159800",
           "source": "金十数据",
@@ -1277,17 +1410,6 @@
           "time_info": "11时21分"
         },
         {
-          "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：收到了检察官Pirro周五与美联储相关的声明。 相信美联储在大楼翻修工程中不存在任何不当行为。 司法部明确地告诉我，对美联储的刑事调查结束了。 我准备推动凯文·沃什的美联储主席提名人资格确认程序。 （关于沃什的提名资格确认程序重回正轨）的确如此。 预计沃什将在担任美联储主席保持独立性。 总统特朗普在美联储问题上提出要求，这并不让我感到眼红。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3094527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "美国总统特朗普：嫌疑人来自加利福尼亚州。",
           "url": "https://flash.jin10.com/detail/20260426104032088800",
           "source": "金十数据",
@@ -1327,9 +1449,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
+        },
+        {
+          "title": "特朗普与英国首相通话 强调需要恢复霍尔木兹海峡航运",
+          "url": "https://flash.jin10.com/detail/20260426222328428800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美国总统特朗普：嫌疑人已被完全制服；呼吁美国人民以和平方式解决分歧。",
@@ -1341,39 +1474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "借口白宫记协晚宴安全事件，特朗普要求撤销针对宴会厅建设项目的诉讼",
-          "url": "https://wallstreetcn.com/livenews/3094523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "枪击发生时特朗普旁的华裔女记者是谁",
-          "url": "https://www.baidu.com/s?wd=%E6%9E%AA%E5%87%BB%E5%8F%91%E7%94%9F%E6%97%B6%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%81%E7%9A%84%E5%8D%8E%E8%A3%94%E5%A5%B3%E8%AE%B0%E8%80%85%E6%98%AF%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "美国总统特朗普：这起事件表明宴会厅现场需要加强安保。",
@@ -1429,17 +1529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
-        },
-        {
-          "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
-          "url": "https://wallstreetcn.com/livenews/3094520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "美国总统特朗普再次批评美联储改革。",
@@ -1555,7 +1644,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "DeepSeek v4 全面支持百万上下文 token，这意味着什么？到底有多厉害？",
@@ -1586,6 +1675,32 @@
           "time_info": "[11时20分 ~ 22时50分]"
         },
         {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时17分 ~ 23时46分]"
+        },
+        {
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时09分 ~ 23时46分]"
+        },
+        {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
@@ -1597,19 +1712,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时49分 ~ 11时21分]"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时17分 ~ 22时50分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -1627,30 +1729,18 @@
           "time_info": "[00时49分 ~ 14时09分]"
         },
         {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时09分 ~ 22时50分]"
-        },
-        {
           "title": "DeepSeek V4发布意味着什么",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
             5,
             4,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时51分 ~ 22时50分]"
+          "appearance_count": 6,
+          "time_info": "[18时51分 ~ 23时46分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -1685,6 +1775,18 @@
           "time_info": "[11时21分 ~ 19时42分]"
         },
         {
+          "title": "一条视频看懂DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2479851",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
+        },
+        {
           "title": "DeepSeek V4评测解析",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E8%AF%84%E6%B5%8B%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
@@ -1694,6 +1796,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "DeepSeek输入缓存降价",
+          "url": "https://wallstreetcn.com/livenews/3094547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -1711,17 +1824,6 @@
           "time_info": "[14时09分 ~ 19时42分]"
         },
         {
-          "title": "一条视频看懂DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2479851",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
           "source": "澎湃新闻",
@@ -1732,6 +1834,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时56分 ~ 22时50分]"
+        },
+        {
+          "title": "龙虾官宣接入DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时46分]"
         },
         {
           "title": "DeepSeek多位核心骨干离职去大厂",
@@ -1767,15 +1881,26 @@
           "time_info": "00时49分"
         },
         {
-          "title": "龙虾官宣接入DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek输入缓存降价",
+          "url": "https://flash.jin10.com/detail/20260426225354458800",
+          "source": "金十数据",
           "ranks": [
-            6
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "23时46分"
+        },
+        {
+          "title": "DeepSeek输入缓存降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
@@ -1856,11 +1981,12 @@
             15,
             13,
             16,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时49分 ~ 22时50分]"
+          "appearance_count": 20,
+          "time_info": "[00时49分 ~ 23时46分]"
         }
       ]
     }
