@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T21:25:39.573002+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-05-01T22:59:47.292524+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -82,6 +82,19 @@
           "time_info": "[11时40分 ~ 17时03分]"
         },
         {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 22时59分]"
+        },
+        {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
           "source": "澎湃新闻",
@@ -116,17 +129,15 @@
           "time_info": "[11时40分 ~ 14时45分]"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
+          "title": "德国副总理：我们不需要特朗普的建议",
+          "url": "https://wallstreetcn.com/livenews/3097945",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时40分 ~ 21时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "特朗普：可能减少驻西班牙和意大利的美军规模",
@@ -162,6 +173,17 @@
           "time_info": "19时10分"
         },
         {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 22时59分]"
+        },
+        {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
           "url": "https://flash.jin10.com/detail/20260430235413637800",
           "source": "金十数据",
@@ -193,17 +215,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时10分 ~ 11时40分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 21时25分]"
         },
         {
           "title": "美国总统特朗普向伊拉克候任总理表示祝贺。",
@@ -242,6 +253,30 @@
           "time_info": "[02时13分 ~ 04时11分]"
         },
         {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 22时59分]"
+        },
+        {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 22时59分]"
+        },
+        {
           "title": "特朗普称美国结束对伊朗战争",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -253,29 +288,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时45分 ~ 19时10分]"
-        },
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时25分]"
-        },
-        {
-          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
-          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时25分]"
         },
         {
           "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
@@ -454,6 +466,17 @@
           "time_info": "11时40分"
         },
         {
+          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "美国总统特朗普：（关于华盛顿晚宴枪击事件）他们表示特勤局特工并非被“友军”误伤。",
           "url": "https://flash.jin10.com/detail/20260501033436382800",
           "source": "金十数据",
@@ -515,7 +538,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -727,12 +750,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普级战列舰真能建成吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E7%9C%9F%E8%83%BD%E5%BB%BA%E6%88%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -770,6 +804,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
+          "url": "https://flash.jin10.com/detail/20260501222150341800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "提醒：苹果公司电话会结束。 苹果公司美股盘后维持3.9%的涨幅。",
           "url": "https://wallstreetcn.com/livenews/3097744",
           "source": "华尔街见闻-快讯",
@@ -787,7 +832,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -803,6 +848,19 @@
           "time_info": "19时10分"
         },
         {
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 22时59分]"
+        },
+        {
           "title": "分析师分析师电话会：苹果公司预计第三财季营收将同比增长14%-17%，分析师预期增长9.1%。 预计第三财季服务营收增幅将与第二财季（至3月的三个月）类似。 预计第三财季毛利润率为47.5%-48.5%。 本公司不再追求净现金中性立场。 苹果公司美股盘后上涨3.45%。",
           "url": "https://wallstreetcn.com/livenews/3097728",
           "source": "华尔街见闻-快讯",
@@ -813,18 +871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时02分]"
-        },
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时25分]"
         },
         {
           "title": "雪佛龙第一季度调整后每股收益1.41美元，预估为90美分。 第一季度营收及其他收入486.1亿美元，预期506.1亿美元。 雪佛龙美股盘前涨近2%。",
@@ -888,7 +934,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -904,6 +950,28 @@
           "time_info": "17时03分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、科技行业ETF、网络股指数ETF涨超1%，生物科技指数ETF跌超2%，区域银行ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3097921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美股延续涨势，纳指涨1%，道指涨0.53%，标普500指数涨0.78%。",
+          "url": "https://flash.jin10.com/detail/20260501220008625800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "Roblox美股盘后跌28%，该公司下调全年预定预期。",
           "url": "https://wallstreetcn.com/livenews/3097703",
           "source": "华尔街见闻-快讯",
@@ -913,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "美股盘初：闪迪跌约3%，西部数据跌约7%，苹果涨约3%，雅诗兰黛涨约10%",
+          "url": "https://wallstreetcn.com/livenews/3097916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "西部数据第三财季净营收33.4亿美元，同比增长45%，分析师预期32.3亿美元。 第三财季GAAP毛利润率50.2%，非GAAP毛利率50.5%。 预计第四财季营收将同比增长36%-44%。 预计第四财季运营开支3.85亿-3.95亿美元，预计调整后毛利润率51%-52%。 西部数据（WDC）美股盘后跌超6.44%。",
@@ -951,7 +1030,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -962,8 +1041,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 21时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时02分 ~ 22时59分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时02分 ~ 22时59分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -978,31 +1071,18 @@
           "time_info": "[00时23分 ~ 07时02分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 21时25分]"
-        },
-        {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
           "url": "https://wallstreetcn.com/articles/3771450",
           "source": "华尔街见闻",
           "ranks": [
             10,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 21时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 22时59分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1079,6 +1159,17 @@
           "time_info": "[07时02分 ~ 11时40分]"
         },
         {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "谷歌A创约8个月最大盘中涨幅",
           "url": "https://wallstreetcn.com/livenews/3097611",
           "source": "华尔街见闻-快讯",
@@ -1105,11 +1196,12 @@
             7,
             9,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 21时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 22时59分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
