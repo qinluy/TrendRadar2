@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T19:50:51.331397+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-05-06T22:22:15.257348+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -31,6 +31,17 @@
           "time_info": "[00时38分 ~ 08时00分]"
         },
         {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 22时22分]"
+        },
+        {
           "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
           "url": "https://www.cls.cn/detail/2362745",
           "source": "财联社热门",
@@ -54,6 +65,18 @@
           "time_info": "[00时38分 ~ 14时42分]"
         },
         {
+          "title": "中方再回应特朗普访华",
+          "url": "https://www.toutiao.com/trending/7636699708399865370/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时22分]"
+        },
+        {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
           "url": "https://news.ifeng.com/c/8ssll5TyVCi",
           "source": "凤凰网",
@@ -63,17 +86,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 11时28分]"
-        },
-        {
-          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
-          "url": "https://news.ifeng.com/c/8su3Btl2lle",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 19时50分]"
         },
         {
           "title": "中方再回应特朗普访华",
@@ -137,7 +149,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -153,17 +165,6 @@
           "time_info": "[00时38分 ~ 08时00分]"
         },
         {
-          "title": "中方再回应特朗普访华",
-          "url": "https://www.toutiao.com/trending/7636699708399865370/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "美国原油期货下跌2.30美元至每桶100美元以下，此前特朗普称，“疏导”霍尔木兹海峡船舶通行的“自由计划”将在短期内暂停。",
           "url": "https://wallstreetcn.com/livenews/3098982",
           "source": "华尔街见闻-快讯",
@@ -175,6 +176,17 @@
           "time_info": "08时00分"
         },
         {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 22时22分]"
+        },
+        {
           "title": "韩国青瓦台：目前尚不需要对特朗普提出的参与“自由计划”的呼吁进行审议。",
           "url": "https://flash.jin10.com/detail/20260506142948332800",
           "source": "金十数据",
@@ -184,6 +196,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 22时22分]"
         },
         {
           "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
@@ -211,30 +237,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 06时04分]"
-        },
-        {
-          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
-          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 19时50分]"
-        },
-        {
-          "title": "特朗普称暂停“自由计划”行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 19时50分]"
         },
         {
           "title": "特朗普称暂停自由计划行动",
@@ -278,7 +280,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -311,7 +313,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -437,6 +439,17 @@
           "time_info": "08时00分"
         },
         {
+          "title": "特朗普：谈美伊达成协议“为时过早",
+          "url": "https://wallstreetcn.com/livenews/3099410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "特朗普称美军或需进入伊朗境内获取核材料",
           "url": "https://flash.jin10.com/detail/20260505235851019800",
           "source": "金十数据",
@@ -481,6 +494,17 @@
           "time_info": "14时42分"
         },
         {
+          "title": "特朗普称美伊新一轮面对面谈判“为时尚早”",
+          "url": "https://wallstreetcn.com/livenews/3099398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "日本怂恿特朗普访华途中访日",
           "url": "https://www.toutiao.com/trending/7635392980899069998/",
           "source": "今日头条",
@@ -506,7 +530,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -547,6 +571,17 @@
           "time_info": "[07时59分 ~ 14时42分]"
         },
         {
+          "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
           "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
           "url": "https://www.cls.cn/detail/2363413",
           "source": "财联社热门",
@@ -566,7 +601,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -581,6 +616,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 06时04分]"
+        },
+        {
+          "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
+          "url": "https://www.zhihu.com/question/2034453660378382744",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时22分]"
+        },
+        {
+          "title": "美股中概股大涨 百度涨超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%857%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
@@ -616,6 +674,17 @@
           "time_info": "08时00分"
         },
         {
+          "title": "美股三大股指高开，康宁大涨超17%",
+          "url": "https://wallstreetcn.com/livenews/3099421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
           "url": "https://wallstreetcn.com/livenews/3098968",
           "source": "华尔街见闻-快讯",
@@ -625,17 +694,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
-        },
-        {
-          "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
-          "url": "https://www.zhihu.com/question/2034453660378382744",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
@@ -666,7 +724,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -688,7 +746,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -724,6 +782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3099405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美股行业ETF普遍收涨，半导体ETF涨超3.1%",
@@ -825,7 +894,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI推出GPT-5.5 Instant",
@@ -848,6 +917,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 14时42分]"
+        },
+        {
+          "title": "OpenAI：我们已与 AMD、博通、英特尔、微软及英伟达达成合作，共同发布多路径可靠连接（MRC）。",
+          "url": "https://flash.jin10.com/detail/20260506220121812800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
@@ -914,8 +994,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 19时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 22时22分]"
         },
         {
           "title": "DeepSeek被曝投后估值或达450亿美元",
@@ -924,7 +1004,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         }
@@ -948,8 +1028,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 22时22分]"
         },
         {
           "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
