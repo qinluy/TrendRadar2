@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:50:33.621463+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-05-10T06:51:34.801687+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -16,20 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时50分]"
-        },
-        {
-          "title": "意媒：特朗普“仍在考虑”调整驻意美军",
-          "url": "https://wallstreetcn.com/livenews/3101087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时51分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -39,11 +27,25 @@
             23,
             4,
             18,
-            29
+            29,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 06时51分]"
+        },
+        {
+          "title": "意媒：特朗普“仍在考虑”调整驻意美军",
+          "url": "https://wallstreetcn.com/livenews/3101087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时51分]"
         },
         {
           "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
@@ -142,8 +144,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时51分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -154,8 +156,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时51分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -168,8 +170,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时51分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -180,8 +182,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时50分]"
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 06时51分]"
         }
       ]
     },
@@ -198,8 +200,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时51分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -226,8 +228,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时51分]"
         }
       ]
     }
