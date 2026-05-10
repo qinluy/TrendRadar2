@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:25:59.286311+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-05-10T22:57:21.640391+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -62,6 +62,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 06时51分]"
+        },
+        {
+          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260510222748266800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美国总统特朗普：我并没有说针对伊朗的敌对行动已经结束，但我说过他们被击败了。",
+          "url": "https://flash.jin10.com/detail/20260510221423480800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
@@ -159,6 +181,39 @@
           "time_info": "[19时55分 ~ 21时25分]"
         },
         {
+          "title": "美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。",
+          "url": "https://flash.jin10.com/detail/20260510221333169800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在监测伊朗掩埋在废墟下的浓缩铀，美国太空部队将接管相关任务。",
+          "url": "https://flash.jin10.com/detail/20260510221311512800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "特朗普级战列舰能建成吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%83%BD%E5%BB%BA%E6%88%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
           "url": "https://flash.jin10.com/detail/20260510015900096800",
           "source": "金十数据",
@@ -179,6 +234,76 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14,
+            16,
+            17,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 22时57分]"
+        },
+        {
+          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 18时19分]"
+        },
+        {
+          "title": "Deepseek和阿里谈崩了？市场人士回应",
+          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 11时36分]"
+        },
+        {
+          "title": "DeepSeek被曝融资500亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 18时19分]"
+        },
+        {
+          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
+          "url": "https://www.zhihu.com/question/2036432998422115875",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         }
       ]
     },
@@ -247,67 +372,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            14,
-            16,
-            17,
-            18
-          ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 21时25分]"
-        },
-        {
-          "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2035400318624733173",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 18时19分]"
-        },
-        {
-          "title": "Deepseek和阿里谈崩了？市场人士回应",
-          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 11时36分]"
-        },
-        {
-          "title": "DeepSeek被曝融资500亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 18时19分]"
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 22时57分]"
         }
       ]
     },
@@ -328,17 +395,6 @@
           "time_info": "[01时01分 ~ 06时51分]"
         },
         {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时50分]"
-        },
-        {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
@@ -349,8 +405,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时49分 ~ 22时57分]"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时49分 ~ 21时25分]"
+          "time_info": "[01时01分 ~ 04时50分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
