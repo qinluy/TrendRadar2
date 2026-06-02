@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T13:52:35.856960+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-06-02T18:41:59.693972+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：以黎将立即停火",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 06时13分]"
+        },
+        {
+          "title": "戏剧性一幕，特朗普被迫打了一个电话",
+          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 18时41分]"
         },
         {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
-        },
-        {
-          "title": "戏剧性一幕，特朗普被迫打了一个电话",
-          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
@@ -93,9 +93,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "特朗普再发5张照片回味中国：他们的宴会厅又大又漂亮",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "特朗普：协议有望在未来一周内达成 今天只是小插曲",
@@ -109,6 +120,18 @@
           "time_info": "06时13分"
         },
         {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 18时41分]"
+        },
+        {
           "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
           "url": "https://wallstreetcn.com/articles/3773555",
           "source": "华尔街见闻",
@@ -120,17 +143,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时12分 ~ 13时52分]"
-        },
-        {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "据ABC新闻：美国总统特朗普称，他认为在“未来一周内”，他将与伊朗达成一项协议，以延长停火期限并重新开放霍尔木兹海峡。",
@@ -194,7 +206,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -216,7 +228,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -227,7 +239,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -419,6 +431,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "土耳其外长预计特朗普将出席北约峰会",
+          "url": "https://flash.jin10.com/detail/20260602180738152800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "以总理告诉特朗普：以军将继续按计划在黎南部开展行动",
           "url": "https://wallstreetcn.com/livenews/3112638",
           "source": "华尔街见闻-快讯",
@@ -433,7 +456,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
@@ -506,6 +529,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
+          "url": "https://www.cls.cn/detail/2388081",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "美股纳指首次收于27000点上方",
           "url": "https://www.toutiao.com/trending/7646569391693237811/",
           "source": "今日头条",
@@ -545,7 +579,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -603,23 +637,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "意法半导体美股盘前涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3112966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 18时41分]"
         },
         {
           "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
@@ -631,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国证交会文件显示，谷歌母公司Alphabet申请发行最多1.5亿份B系列存托股份，计划发行总规模150亿美元的A类普通股和C类资本股。",
+          "url": "https://flash.jin10.com/detail/20260602181543749800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
@@ -678,7 +735,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -708,8 +765,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
+          "url": "https://www.cls.cn/detail/2387988",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
         {
           "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
           "url": "https://flash.jin10.com/detail/20260602053510657800",
@@ -720,6 +788,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     }
