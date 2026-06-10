@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-11T02:02:32.329450+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-11T05:26:55.518955+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "美国总统特朗普：美方控制霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3117654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
         {
           "title": "美贸易法院：特朗普，快退钱！",
           "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 05时26分]"
+        },
+        {
+          "title": "美国总统特朗普：美方控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3117654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +37,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 05时26分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 05时26分]"
+        },
+        {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 05时26分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：特朗普居然真的说出了“我爱通胀”，而且是在镜头前，让全美国都听到了。他对你们的轻蔑没有底线。",
@@ -57,28 +81,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -118,6 +120,28 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国国防部长赫格塞思：由特朗普总统、万斯、库什纳、威特科夫和鲁比奥领导的谈判团队已准备好达成一项惠及伊朗的伟大协议。",
+          "url": "https://flash.jin10.com/detail/20260611045011815800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "据两名美国消息人士透露，总统特朗普就对伊朗打击计划召开战情室会议。 万斯、卢比奥、Ratcliff、凯恩、威特科夫出席了会议。 战争部长海格塞思从美军中央司令部总部参加会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3117688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "特朗普：我喜欢通胀",
           "url": "https://wallstreetcn.com/livenews/3117628",
           "source": "华尔街见闻-快讯",
@@ -138,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普称美“秘密”帮助200多艘商船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3117679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "美国总统特朗普：我们每天晚上都在开采数百万桶石油。",
@@ -165,18 +200,41 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 05时26分]"
+        },
+        {
+          "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
+          "url": "https://wallstreetcn.com/livenews/3117696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，黄金ETF跌超4.1%，纳指ETF跌2%",
+          "url": "https://wallstreetcn.com/livenews/3117690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         },
         {
           "title": "金十图示：2026年06月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -199,13 +257,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "周三（6月10日），美股行业ETF涨跌各异，全球航空业ETF收跌4.59%，半导体ETF跌3.40%，全球科技股指数ETF、科技行业ETF、可选消费ETF、生物科技指数ETF、网络股指数ETF至多跌2.29%，银行业ETF涨0.28%，能源业ETF涨1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3117687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "甲骨文第四财季调整后营收191.8亿美元，分析师预期190.9亿美元。 第四财季软件营收68.2亿美元，分析师预期68.8亿美元；软件租赁营收18.8亿美元，分析师预期19.3亿美元；分析师软件支持营收49.4亿美元，预期49.8亿美元。 第四财季云基础设施营收（IAAS）为57.9亿美元，分析师预期57.2亿美元。 第四财季云收入（IAAS+SAAS）为99.1亿美元，分析师预期100亿美元。 确认2027财年总收入900亿美元的指引。 上调2027财年调整后每股收益（EPS）预期至8.05美元，符合分析师预期。 预计第一财季营收按恒定汇率将增长27%-29%，调整后EPS将为1.72-1.76美元、分析师预期1.69美元。 甲骨文（ORCL）美股盘后跌8%。",
+          "url": "https://wallstreetcn.com/livenews/3117686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌发言人：公司致力于与加拿大政府合作，建立所有平台的更高安全标准。",
+          "url": "https://flash.jin10.com/detail/20260611050209043800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
         {
           "title": "谷歌公司：将携带Gemini的Chrome浏览器推广至非洲、中东、拉美等市场的用户。",
           "url": "https://wallstreetcn.com/livenews/3117637",
