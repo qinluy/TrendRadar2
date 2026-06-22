@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T12:44:53.958368+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-06-22T18:42:17.090593+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时42分 ~ 07时17分]"
+        },
+        {
+          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
+          "url": "https://wallstreetcn.com/articles/3775145",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 18时42分]"
         },
         {
           "title": "特朗普再轰《纽约时报》：虚假报道伊朗 简直是叛国！",
@@ -59,7 +71,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -73,17 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
-          "url": "https://wallstreetcn.com/articles/3775145",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         },
         {
           "title": "特朗普谈判期间再次发出威胁 国际油价周一开盘上涨",
@@ -247,6 +248,18 @@
           "time_info": "[05时18分 ~ 07时17分]"
         },
         {
+          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 18时42分]"
+        },
+        {
           "title": "伊朗谈判代表团团长回应特朗普最新威胁：我们根本不把美国人的威胁放在眼里，奉劝他们最好谨言慎行",
           "url": "https://wallstreetcn.com/livenews/3122372",
           "source": "华尔街见闻-快讯",
@@ -319,6 +332,17 @@
           "time_info": "[01时43分 ~ 03时47分]"
         },
         {
+          "title": "特朗普再喷意总理，意外长：合作不会因此中断",
+          "url": "https://news.ifeng.com/c/8u9x7j0CV87",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "伊朗代表团因抗议特朗普言论而离开谈判会场",
           "url": "https://flash.jin10.com/detail/20260622003140203800",
           "source": "金十数据",
@@ -336,7 +360,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -347,18 +371,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -440,6 +453,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普称美国或收取中东地区20%的石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "伊朗代表团抗议特朗普近期口头威胁",
           "url": "https://flash.jin10.com/detail/20260621234839102800",
           "source": "金十数据",
@@ -465,7 +489,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -479,6 +503,17 @@
           "time_info": "[01时42分 ~ 07时17分]"
         },
         {
+          "title": "美伊达成协议文件，美股盘前芯片股集体走高，英镑逼近年内低位，油价冲高回落，金价反弹",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "美股股指期货周一低开，其中纳指期货跌0.5%。",
           "url": "https://flash.jin10.com/detail/20260622060014166800",
           "source": "金十数据",
@@ -488,6 +523,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
