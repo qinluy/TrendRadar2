@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T16:02:55.064466+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-06-26T19:12:20.420381+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -260,7 +260,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -322,6 +322,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 07时22分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
@@ -605,11 +616,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时58分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 19时12分]"
         },
         {
           "title": "DeepSeek大规模招聘",
