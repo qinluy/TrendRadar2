@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T20:16:44.821038+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-07-14T22:55:29.266955+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时42分 ~ 20时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时42分 ~ 22时55分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -42,11 +42,12 @@
             16,
             12,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 20时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 22时55分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -54,11 +55,12 @@
           "source": "凤凰网",
           "ranks": [
             12,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时34分 ~ 20时16分]"
+          "appearance_count": 7,
+          "time_info": "[13时34分 ~ 22时55分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -161,6 +163,19 @@
           "time_info": "[06时01分 ~ 07时05分]"
         },
         {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 22时55分]"
+        },
+        {
           "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
           "source": "澎湃新闻",
@@ -183,18 +198,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时34分 ~ 16时11分]"
-        },
-        {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 20时16分]"
         },
         {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
@@ -308,6 +311,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "美国最高法院法官Barrett：（特朗普政府）在国会山预算听证会上释放的威胁水平相当高。",
+          "url": "https://wallstreetcn.com/livenews/3133730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "白宫：特朗普签署一项公告，涉及对某些固定污染源给予监管救济。",
           "url": "https://flash.jin10.com/detail/20260714062715329800",
           "source": "金十数据",
@@ -339,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "特朗普：美国可能负责管理霍尔木兹海峡 守护航道应“收费”",
@@ -394,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "美联储主席沃什：美联储作为独立的中央银行而感到荣幸。 美国最高法院围绕美联储的独立性回应了诸多疑问。 我在美联储的目标是消除（来自美国总统特朗普的）政治因素。 美联储对国会山也具有独立性。",
+          "url": "https://wallstreetcn.com/livenews/3133720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
@@ -473,6 +509,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "美国总统特朗普兜售与日本的贸易协议和投资交易。",
+          "url": "https://wallstreetcn.com/livenews/3133716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "美国总统特朗普宣称：如果古巴拥有伊朗无人机，我们将小心应付。 调查古巴是否存储了伊朗无人机。",
           "url": "https://wallstreetcn.com/livenews/3133108",
           "source": "华尔街见闻-快讯",
@@ -534,7 +581,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -581,12 +628,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "特朗普转变态度力挺乌克兰有何意图",
+          "url": "https://www.toutiao.com/trending/7662341237323599366/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -598,8 +656,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时42分 ~ 20时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时42分 ~ 22时55分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -683,6 +741,20 @@
           "time_info": "[07时04分 ~ 07时05分]"
         },
         {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时10分 ~ 22时55分]"
+        },
+        {
           "title": "美股盘前，存储芯片股普涨，SK海力士涨约7%，闪迪涨约3%，希捷科技涨约2%，西部数据涨约2%，美光科技涨约2%。",
           "url": "https://wallstreetcn.com/livenews/3133439",
           "source": "华尔街见闻-快讯",
@@ -700,7 +772,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -711,9 +783,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
+        },
+        {
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "富国银行第二季度营收为226.2亿美元，预期为218亿美元。 第二季度每股收益为2.00美元。 第二季度净利息收入为123.2亿美元，预期为123.2亿美元。 富国银行美股盘前涨超1%。",
@@ -725,19 +808,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
-        },
-        {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时10分 ~ 20时16分]"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -791,7 +861,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -813,7 +883,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -824,7 +894,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -846,7 +916,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -857,7 +927,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -910,8 +980,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时10分 ~ 20时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时10分 ~ 22时55分]"
         },
         {
           "title": "软银推出基于OpenAI技术的网络安全服务。",
@@ -948,11 +1018,12 @@
           "ranks": [
             15,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时42分 ~ 20时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时42分 ~ 22时55分]"
         },
         {
           "title": "DeepSeek首轮融资完成仅一个月后考虑启动新一轮融资",
