@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T21:23:07.875742+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-07-19T22:59:28.324517+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 36,
       "titles": [
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -33,6 +33,21 @@
           "time_info": "[00时02分 ~ 06时53分]"
         },
         {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 22时59分]"
+        },
+        {
           "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
           "source": "澎湃新闻",
@@ -46,19 +61,16 @@
           "time_info": "[00时02分 ~ 14时32分]"
         },
         {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
+          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
+          "url": "https://news.ifeng.com/c/8utCDuus6XE",
+          "source": "凤凰网",
           "ranks": [
-            10,
             5,
-            4,
-            2,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 22时59分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时54分 ~ 07时57分]"
-        },
-        {
-          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
-          "url": "https://news.ifeng.com/c/8utCDuus6XE",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时23分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -183,6 +184,18 @@
           "time_info": "01时08分"
         },
         {
+          "title": "谁将与特朗普同举大力神杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 22时59分]"
+        },
+        {
           "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
           "url": "https://flash.jin10.com/detail/20260719045619804800",
           "source": "金十数据",
@@ -193,18 +206,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时54分 ~ 07时57分]"
-        },
-        {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 21时23分]"
         },
         {
           "title": "特朗普点评英格兰队战术",
@@ -230,6 +231,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "美国总统特朗普宣称：北海石油是世界上最优质的石油来源之一。 英国的巨大潜力始于开放北海石油。 英国花钱向挪威买油简直是荒唐。 “我们爱你，苏格兰！”",
+          "url": "https://wallstreetcn.com/livenews/3136305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "美国参议员桑德斯：曾几何时，美国凭借其对民主与正义的坚定承诺激励着全世界。遗憾的是，在特朗普执政之下，情况已不再如此。",
           "url": "https://flash.jin10.com/detail/20260719020717428800",
           "source": "金十数据",
@@ -241,6 +253,39 @@
           "time_info": "03时10分"
         },
         {
+          "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
+          "url": "https://flash.jin10.com/detail/20260719220841809800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美国总统特朗普：此外，有消息称英国将拆除那些老旧且外观丑陋的风力发电机，这些设备一直笼罩着阿伯丁市并破坏着城市景观。",
+          "url": "https://flash.jin10.com/detail/20260719220832968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "美国总统特朗普：英国每年向挪威支付数十亿美元购买石油，而挪威开采的却只是北海价值较低的区域——这简直太荒谬了。",
+          "url": "https://flash.jin10.com/detail/20260719220803871800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
           "url": "https://flash.jin10.com/detail/20260719013910983800",
           "source": "金十数据",
@@ -250,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "美国总统特朗普：这是地球上最优质的石油资源之一，仍有数百年的产能，许多资源甚至尚未被发现，这将使英国从一个贫困的灾难国变成世界上最富有的国家之一。",
+          "url": "https://flash.jin10.com/detail/20260719220736369800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
@@ -274,6 +330,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "美国总统特朗普：苏格兰阿伯丁的市民们正在街头载歌载舞，因为即将就任的英国首相伯纳姆宣布，他将全面开放宝贵的北海石油资源。",
+          "url": "https://flash.jin10.com/detail/20260719220638278800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "特朗普盟友去世有何影响",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%9F%E5%8F%8B%E5%8E%BB%E4%B8%96%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -296,6 +363,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
+          "url": "https://wallstreetcn.com/livenews/3136290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的",
           "url": "https://flash.jin10.com/detail/20260719101247637800",
           "source": "金十数据",
@@ -313,7 +391,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -324,7 +402,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -418,8 +496,19 @@
     },
     {
       "keyword_group": "Qwen",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "如何评价 7 月 19 日上线的阿里 Qwen 3.8 Max Preview 模型？其性能如何？",
+          "url": "https://www.zhihu.com/question/2062219946885657098",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
         {
           "title": "Qwen3.8抢先体验！正式版即将发布并开源！",
           "url": "https://wallstreetcn.com/livenews/3136185",
@@ -456,6 +545,51 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 22时59分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
+          "url": "https://www.zhihu.com/question/2061407401308152796",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            12,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时57分]"
+        },
+        {
+          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
+          "url": "https://www.zhihu.com/question/2062188301013071138",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -473,6 +607,20 @@
           "time_info": "[00时02分 ~ 07时57分]"
         },
         {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 22时59分]"
+        },
+        {
           "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
           "url": "https://wallstreetcn.com/livenews/3136253",
           "source": "华尔街见闻-快讯",
@@ -483,53 +631,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时10分 ~ 21时23分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 21时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 21时23分]"
-        },
-        {
-          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
-          "url": "https://www.zhihu.com/question/2061407401308152796",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            12,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 07时57分]"
         }
       ]
     },
