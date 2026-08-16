@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:43:11.889150+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-08-16T16:33:05.655810+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 16时33分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时25分 ~ 14时43分]"
+          "time_info": "[12时38分 ~ 16时33分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -29,8 +42,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时43分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 16时33分]"
         },
         {
           "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
@@ -38,11 +62,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 16时33分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -57,16 +82,17 @@
           "time_info": "[09时26分 ~ 12时38分]"
         },
         {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
+          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
+          "url": "https://flash.jin10.com/detail/20260816123425273800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            6
+            5,
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 14时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 16时33分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -79,29 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 12时38分]"
-        },
-        {
-          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
-          "url": "https://flash.jin10.com/detail/20260816123425273800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时43分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时25分 ~ 14时43分]"
         },
         {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
@@ -188,8 +191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 16时33分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -200,8 +203,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 14时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 16时33分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -211,11 +214,12 @@
             1,
             9,
             12,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 16时33分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -226,8 +230,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时43分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 16时33分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -264,11 +268,12 @@
           "ranks": [
             2,
             5,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 16时33分]"
         },
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -309,7 +314,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -318,11 +323,12 @@
           "ranks": [
             1,
             4,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 16时33分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -335,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时43分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
@@ -362,8 +379,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 14时43分]"
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 16时33分]"
         },
         {
           "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
@@ -384,11 +401,12 @@
             5,
             13,
             16,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 16时33分]"
         }
       ]
     }
